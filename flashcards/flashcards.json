@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "evaluation",
+    "front": "How is MCV calculated from the hematocrit and the red cell count?",
+    "back": "MCV (fL) = hematocrit (L/L) x 1000 divided by RBC count (x10^12/L). Example: Hct 0.40 and RBC 4.0 gives 100 fL. MCV classifies anemia as microcytic, normocytic or macrocytic."
+  },
+  {
+    "id": 2,
+    "domain": "evaluation",
+    "front": "What does a high RDW tell you about the red cell population?",
+    "back": "A high RDW means marked anisocytosis, a mix of cell sizes. It is typical of early iron deficiency and megaloblastic anemia, and a normal RDW fits thalassemia trait or chronic disease."
+  },
+  {
+    "id": 3,
+    "domain": "evaluation",
+    "front": "How is MCHC calculated and which condition characteristically raises it?",
+    "back": "MCHC (g/L) = hemoglobin (g/L) divided by hematocrit (L/L). It is raised in hereditary spherocytosis because spherocytes lose membrane and become dense. A falsely high MCHC also suggests cold agglutinins or lipemia."
+  },
+  {
+    "id": 4,
+    "domain": "evaluation",
+    "front": "What is the formula for MCH and what does a low value mean?",
+    "back": "MCH (pg) = hemoglobin (g/L) divided by RBC count (x10^12/L). A low MCH means hypochromia, seen with iron deficiency and thalassemia, where cells carry too little hemoglobin."
+  },
+  {
+    "id": 5,
+    "domain": "evaluation",
+    "front": "In a stepwise anemia work-up, which two results sort most anemias first?",
+    "back": "Start with MCV (microcytic, normocytic, macrocytic), then the reticulocyte count. A high retic count means bone marrow response, such as blood loss or hemolysis. A low count means production failure."
+  },
+  {
+    "id": 6,
+    "domain": "evaluation",
+    "front": "A patient has normocytic anemia with a low reticulocyte count. What does that suggest?",
+    "back": "It suggests a hypoproliferative anemia: the marrow is not responding. Think chronic disease, renal disease, early iron deficiency or marrow failure. Hemolysis and bleeding would raise the retic count."
+  },
+  {
+    "id": 7,
+    "domain": "evaluation",
+    "front": "What is the corrected reticulocyte count and why is it used?",
+    "back": "Corrected retic % = retic % x (patient Hct divided by normal Hct). It adjusts for the lower red cell mass in anemia, so a raw retic % does not overstate marrow response."
+  },
+  {
+    "id": 8,
+    "domain": "evaluation",
+    "front": "What is the typical CBC pattern in iron deficiency anemia?",
+    "back": "Low hemoglobin, low MCV, low MCH, high RDW, and often a raised platelet count. The red cell count is relatively reduced for the degree of anemia, and the film is hypochromic."
+  },
+  {
+    "id": 9,
+    "domain": "evaluation",
+    "front": "Which blood film features are typical of iron deficiency anemia?",
+    "back": "Hypochromic microcytic cells with marked central pallor, pencil cells (elongated elliptocytes) and anisopoikilocytosis. Target cells may be present but are fewer than in thalassemia."
+  },
+  {
+    "id": 10,
+    "domain": "evaluation",
+    "front": "What is the classic iron study pattern in iron deficiency?",
+    "back": "Low serum iron and ferritin, high total iron binding capacity (transferrin), and low transferrin saturation. Ferritin is the earliest and most specific marker of depleted stores."
+  },
+  {
+    "id": 11,
+    "domain": "evaluation",
+    "front": "How do iron studies differ in anemia of chronic disease compared with iron deficiency?",
+    "back": "In chronic disease, serum iron is low and TIBC is low or normal, with normal or high ferritin because ferritin is an acute phase reactant. In iron deficiency, TIBC is high and ferritin is low."
+  },
+  {
+    "id": 12,
+    "domain": "evaluation",
+    "front": "What is the Mentzer index and how does it separate thalassemia trait from iron deficiency?",
+    "back": "Mentzer index = MCV (fL) divided by RBC count (x10^12/L). A value under 13 suggests thalassemia trait (high RBC count, low MCV). A value over 13 suggests iron deficiency."
+  },
+  {
+    "id": 13,
+    "domain": "evaluation",
+    "front": "Why is the RBC count usually high relative to hemoglobin in thalassemia trait?",
+    "back": "Thalassemia trait produces many small cells, so the RBC count stays normal or high despite a mild anemia and low MCV. Iron deficiency lowers the RBC count along with the MCV."
+  },
+  {
+    "id": 14,
+    "domain": "evaluation",
+    "front": "Which blood film findings are typical of megaloblastic anemia?",
+    "back": "Macro-ovalocytes, anisopoikilocytosis, hypersegmented neutrophils (five or more lobes) and sometimes Howell-Jolly bodies. The MCV is often over 110 fL, and the retic count is low."
+  },
+  {
+    "id": 15,
+    "domain": "evaluation",
+    "front": "What is the usual cause of the high MCV in vitamin B12 and folate deficiency?",
+    "back": "Impaired DNA synthesis delays nuclear maturation while cytoplasm keeps developing, producing large cells (nuclear-cytoplasmic asynchrony). The marrow is hypercellular with ineffective erythropoiesis, causing a raised LD and indirect bilirubin."
+  },
+  {
+    "id": 16,
+    "domain": "evaluation",
+    "front": "Which test helps separate B12 deficiency from folate deficiency, and what is the key difference?",
+    "back": "Methylmalonic acid is raised in B12 deficiency but normal in folate deficiency. Homocysteine is raised in both. Neurologic symptoms point to B12 deficiency."
+  },
+  {
+    "id": 17,
+    "domain": "evaluation",
+    "front": "Which laboratory results together suggest hemolysis?",
+    "back": "High reticulocyte count, raised LD and indirect bilirubin, low or absent haptoglobin, and polychromasia on the film. Intravascular hemolysis also gives hemoglobinuria and hemosiderinuria."
+  },
+  {
+    "id": 18,
+    "domain": "evaluation",
+    "front": "Why is haptoglobin low in hemolytic anemia?",
+    "back": "Haptoglobin binds free hemoglobin and the complex is cleared by the liver. Hemolysis uses up haptoglobin faster than it is made. It is an acute phase reactant, so inflammation can mask the drop."
+  },
+  {
+    "id": 19,
+    "domain": "evaluation",
+    "front": "What do spherocytes on the film suggest and what pair of tests follows?",
+    "back": "Spherocytes suggest immune hemolysis or hereditary spherocytosis. The direct antiglobulin test separates them: positive means autoimmune hemolytic anemia, negative favours hereditary spherocytosis."
+  },
+  {
+    "id": 20,
+    "domain": "evaluation",
+    "front": "Which lab pattern is characteristic of hereditary spherocytosis?",
+    "back": "Spherocytes without central pallor, raised MCHC, raised retic count, a negative DAT and increased osmotic fragility. The eosin-5-maleimide (EMA) binding test is a common modern confirmation."
+  },
+  {
+    "id": 21,
+    "domain": "evaluation",
+    "front": "In what condition are elliptocytes the dominant cell, and what is the defect?",
+    "back": "Hereditary elliptocytosis, caused by defects in red cell membrane skeletal proteins such as spectrin or protein 4.1. Many patients are asymptomatic, and the film shows numerous elliptocytes."
+  },
+  {
+    "id": 22,
+    "domain": "evaluation",
+    "front": "Which inclusions and cells point to oxidant hemolysis in G6PD deficiency?",
+    "back": "Heinz bodies (visible only with supravital stains like crystal violet), bite cells and blister cells. Heinz bodies are denatured hemoglobin, and the spleen removes them to make bite cells."
+  },
+  {
+    "id": 23,
+    "domain": "evaluation",
+    "front": "Why can a G6PD screening test be falsely normal during or just after a hemolytic crisis?",
+    "back": "G6PD-deficient older cells are destroyed first and young reticulocytes have higher enzyme activity. Testing should wait about two to three months after the episode to avoid a falsely normal result."
+  },
+  {
+    "id": 24,
+    "domain": "evaluation",
+    "front": "What does the sickle solubility test detect and what is its limitation?",
+    "back": "It detects hemoglobin S, which is insoluble in reduced state and makes the solution turbid. It cannot distinguish sickle cell trait from disease, so hemoglobin electrophoresis or HPLC is needed to confirm."
+  },
+  {
+    "id": 25,
+    "domain": "evaluation",
+    "front": "What hemoglobin pattern is typical of beta thalassemia trait on electrophoresis or HPLC?",
+    "back": "Raised HbA2 (usually above 3.5 percent), with HbF normal or mildly raised. The CBC shows low MCV and MCH with target cells. Co-existing iron deficiency can lower HbA2 and mask the pattern."
+  },
+  {
+    "id": 26,
+    "domain": "evaluation",
+    "front": "What HbA2 level typically supports a diagnosis of beta thalassemia trait on HPLC or electrophoresis?",
+    "back": "HbA2 is raised, usually above 3.5 percent (often 4 to 6 percent), with or without a mild rise in HbF. Pair it with microcytosis and a normal or high red cell count."
+  },
+  {
+    "id": 27,
+    "domain": "evaluation",
+    "front": "On hemoglobin electrophoresis, how do sickle cell trait and sickle cell disease differ in their HbA and HbS bands?",
+    "back": "Trait shows HbA plus HbS, with HbS lower than HbA (usually about 35 to 45 percent). Disease (HbSS) shows mostly HbS, no HbA, a raised HbF and a normal HbA2."
+  },
+  {
+    "id": 28,
+    "domain": "evaluation",
+    "front": "Which variants co-migrate with HbA2 on alkaline electrophoresis, and how can they be separated?",
+    "back": "HbC, HbE and HbO-Arab all migrate with HbA2 at alkaline pH. Citrate agar (acid) electrophoresis or HPLC separates them and avoids misreading an HbA2 value."
+  },
+  {
+    "id": 29,
+    "domain": "evaluation",
+    "front": "A child shows mostly HbF with no HbA on HPLC and no transfusion history. What does this suggest?",
+    "back": "Beta thalassemia major, where beta chain production is absent, so HbF is often 90 percent or more. Confirm with age, transfusion history, red cell indices and family studies."
+  },
+  {
+    "id": 30,
+    "domain": "evaluation",
+    "front": "List common causes of neutropenia.",
+    "back": "Viral infection, drugs (chemotherapy, clozapine, antithyroid drugs), marrow failure, autoimmune disease and overwhelming sepsis. Some people also have benign ethnic neutropenia, a lower normal neutrophil count without increased infection risk."
+  },
+  {
+    "id": 31,
+    "domain": "evaluation",
+    "front": "In warm autoimmune hemolytic anemia, what is the typical direct antiglobulin test (DAT) result?",
+    "back": "DAT is positive with anti-IgG, with or without anti-C3d. The film shows spherocytes and polychromasia, and the reticulocyte count is raised."
+  },
+  {
+    "id": 32,
+    "domain": "evaluation",
+    "front": "What DAT pattern and film finding suggest cold agglutinin disease?",
+    "back": "DAT is positive with anti-C3d only (IgG negative). The film shows red cell agglutination. Warm the sample to 37 C before counting, since agglutinates falsely raise the MCV and lower the RBC count."
+  },
+  {
+    "id": 33,
+    "domain": "evaluation",
+    "front": "Which two conditions are the main causes of spherocytes, and what test separates them?",
+    "back": "Hereditary spherocytosis (DAT negative, raised MCHC, increased osmotic fragility) and immune hemolytic anemia (DAT positive). The DAT is the first test that separates them."
+  },
+  {
+    "id": 34,
+    "domain": "evaluation",
+    "front": "How do reactive lymphocytes differ from malignant lymphocytes on a blood film?",
+    "back": "Reactive cells are pleomorphic, with varied size, abundant cytoplasm and mature chromatin, giving a mixed population. Malignant lymphocytosis is monotonous, with one clone of similar looking cells."
+  },
+  {
+    "id": 35,
+    "domain": "evaluation",
+    "front": "How do coagulation results differ between TTP and DIC when schistocytes are present?",
+    "back": "TTP has a normal PT and aPTT with a normal fibrinogen and severe thrombocytopenia. DIC has a prolonged PT and aPTT, low fibrinogen and raised D-dimer."
+  },
+  {
+    "id": 36,
+    "domain": "evaluation",
+    "front": "What blood film finding defines microangiopathic hemolytic anemia, and what is its mechanism?",
+    "back": "Schistocytes (helmet cells, triangles, fragments) with polychromasia and thrombocytopenia, DAT negative. Red cells are sheared as they pass fibrin strands or platelet thrombi in small vessels."
+  },
+  {
+    "id": 37,
+    "domain": "evaluation",
+    "front": "Which enzyme deficiency causes TTP, and what activity level is typical?",
+    "back": "ADAMTS13 activity below 10 percent, from an autoimmune inhibitor or a congenital defect. Without it, ultra large von Willebrand multimers persist and form platelet thrombi."
+  },
+  {
+    "id": 38,
+    "domain": "evaluation",
+    "front": "What defines aplastic anemia in the blood count and bone marrow?",
+    "back": "Pancytopenia with a low reticulocyte count and a hypocellular marrow with fatty replacement, without abnormal infiltrate or fibrosis. Red cells are normocytic or mildly macrocytic."
+  },
+  {
+    "id": 39,
+    "domain": "evaluation",
+    "front": "Contrast marrow findings in pancytopenia from different causes.",
+    "back": "Cellular marrow: megaloblastic anemia, myelodysplasia, hypersplenism. Hypocellular marrow: aplastic anemia. Infiltrated marrow: leukemia, lymphoma, metastases or myelofibrosis. The marrow biopsy separates these."
+  },
+  {
+    "id": 40,
+    "domain": "evaluation",
+    "front": "How is the reticulocyte count reported, and what is a typical adult reference range?",
+    "back": "Reported as a percent of red cells, about 0.5 to 2.5 percent in adults (ranges vary by laboratory). Count at least 1000 red cells on a supravital stained film such as new methylene blue."
+  },
+  {
+    "id": 41,
+    "domain": "evaluation",
+    "front": "How do you calculate the corrected reticulocyte count?",
+    "back": "Retic percent multiplied by (patient hematocrit divided by normal hematocrit). Example: 6 percent x (0.20 / 0.45) = 2.7 percent. It corrects for the reduced red cell number in anemia."
+  },
+  {
+    "id": 42,
+    "domain": "evaluation",
+    "front": "How is the reticulocyte production index calculated and interpreted?",
+    "back": "RPI = corrected reticulocyte count divided by the maturation time in days (about 1.0 at hematocrit 0.45, 2.0 at 0.25). An RPI below 2 in anemia suggests an inadequate marrow response."
+  },
+  {
+    "id": 43,
+    "domain": "evaluation",
+    "front": "What distinguishes relative polycythemia from true polycythemia?",
+    "back": "Relative: plasma volume falls (dehydration, diuretics), so hemoglobin and hematocrit rise with a normal red cell mass. True: red cell mass is actually increased, confirmed by measuring it."
+  },
+  {
+    "id": 44,
+    "domain": "evaluation",
+    "front": "How do EPO levels and JAK2 help separate polycythemia vera from secondary polycythemia?",
+    "back": "Polycythemia vera: EPO low or low normal, JAK2 V617F present in about 95 percent. Secondary: EPO raised (hypoxia, EPO producing tumours) and JAK2 negative."
+  },
+  {
+    "id": 45,
+    "domain": "evaluation",
+    "front": "What are typical adult reference ranges for neutrophils and lymphocytes in a white cell differential?",
+    "back": "Neutrophils about 40 to 70 percent (absolute 2.0 to 7.5 x10^9/L). Lymphocytes about 20 to 40 percent (absolute 1.0 to 4.0 x10^9/L). Ranges vary by laboratory."
+  },
+  {
+    "id": 46,
+    "domain": "evaluation",
+    "front": "How do you calculate an absolute cell count from a differential, and why does it matter?",
+    "back": "Absolute count = WBC (x10^9/L) x percent of that cell / 100. Example: WBC 10 with 60 percent neutrophils gives 6.0 x10^9/L. Percentages alone can hide neutropenia or lymphocytosis."
+  },
+  {
+    "id": 47,
+    "domain": "evaluation",
+    "front": "What is a left shift on a blood film, and what usually causes it?",
+    "back": "Increased band neutrophils, and sometimes metamyelocytes or myelocytes, in the blood. Usually from infection or inflammation, as the marrow releases younger neutrophils early."
+  },
+  {
+    "id": 48,
+    "domain": "evaluation",
+    "front": "Name the toxic changes seen in neutrophils during severe infection.",
+    "back": "Toxic granulation, Dohle bodies (blue grey cytoplasmic RNA remnants), cytoplasmic vacuoles and sometimes giant bands. They reflect accelerated neutrophil production in the marrow."
+  },
+  {
+    "id": 49,
+    "domain": "evaluation",
+    "front": "What absolute neutrophil count defines severe neutropenia, and how does infection risk change?",
+    "back": "An ANC below 0.5 x10^9/L is severe, with a high risk of serious bacterial infection. Neutropenia in adults is generally below 1.5 x10^9/L, and risk rises as the ANC falls."
+  },
+  {
+    "id": 50,
+    "domain": "evaluation",
+    "front": "What blood film pattern suggests infectious mononucleosis?",
+    "back": "Absolute lymphocytosis with many large reactive lymphocytes, usually EBV driven, with a positive heterophile (monospot) test. The reactive cells have abundant basophilic cytoplasm that indents around neighbouring red cells."
+  },
+  {
+    "id": 51,
+    "domain": "evaluation",
+    "front": "Name three common causes of eosinophilia on a differential.",
+    "back": "Allergy and asthma, parasitic (helminth) infection, and drug reactions. Others include atopic skin disease and some neoplasms such as Hodgkin lymphoma. Eosinophils are normally 1 to 4 percent of the white cells."
+  },
+  {
+    "id": 52,
+    "domain": "evaluation",
+    "front": "A persistent absolute basophilia should make you think of which group of disorders?",
+    "back": "Myeloproliferative neoplasms, especially chronic myeloid leukemia. Basophils are normally under 1 percent, so a rising basophil count with immature granulocytes is a red flag to flag for review."
+  },
+  {
+    "id": 53,
+    "domain": "evaluation",
+    "front": "Which conditions are typically associated with a reactive monocytosis?",
+    "back": "Chronic infections such as tuberculosis, recovery from neutropenia or chemotherapy, and chronic inflammatory disease. A persistent unexplained monocytosis may also point to chronic myelomonocytic leukemia."
+  },
+  {
+    "id": 54,
+    "domain": "evaluation",
+    "front": "How does the leukocyte alkaline phosphatase (LAP) score help separate a leukemoid reaction from CML?",
+    "back": "The LAP score is high in a leukemoid reaction and low in chronic myeloid leukemia. Neutrophils in infection are activated, while CML neutrophils are malignant and have little LAP activity."
+  },
+  {
+    "id": 55,
+    "domain": "evaluation",
+    "front": "Which smear feature favours CML over a leukemoid reaction besides a low LAP score?",
+    "back": "Basophilia (and often eosinophilia) alongside a full spectrum of immature granulocytes. A leukemoid reaction shows a left shift with toxic changes (toxic granulation, Dohle bodies, vacuolation) but no increase in basophils."
+  },
+  {
+    "id": 56,
+    "domain": "evaluation",
+    "front": "What is the usual blast threshold on a bone marrow or blood count for diagnosing acute leukemia?",
+    "back": "20 percent blasts or more is the classic WHO threshold, although some recent classifications allow a diagnosis with lower blast counts when a defining genetic abnormality is present."
+  },
+  {
+    "id": 57,
+    "domain": "evaluation",
+    "front": "What are Auer rods and what do they tell you?",
+    "back": "Auer rods are needle-like, red to purple inclusions of fused primary granules in the cytoplasm of myeloid blasts. Seeing one confirms myeloid lineage, meaning acute myeloid leukemia, not ALL."
+  },
+  {
+    "id": 58,
+    "domain": "evaluation",
+    "front": "Which cytochemical stain is positive in AML blasts and negative in ALL blasts?",
+    "back": "Myeloperoxidase (MPO), along with Sudan black B. Lymphoblasts are MPO negative. This is a classic first step to separate AML from ALL before flow cytometry."
+  },
+  {
+    "id": 59,
+    "domain": "evaluation",
+    "front": "What are the typical morphology features of acute promyelocytic leukemia (APL) cells?",
+    "back": "Abnormal promyelocytes with heavy purple granulation, often bundles of Auer rods (faggot cells), and a bilobed or folded nucleus. The hypogranular variant has a butterfly-shaped nucleus."
+  },
+  {
+    "id": 60,
+    "domain": "evaluation",
+    "front": "Why is suspected APL treated as a medical emergency in the lab?",
+    "back": "APL carries a high risk of DIC and fatal bleeding. A suspected APL smear should be phoned to the physician urgently, since early treatment with all-trans retinoic acid greatly improves survival."
+  },
+  {
+    "id": 61,
+    "domain": "evaluation",
+    "front": "What chromosomal translocation defines acute promyelocytic leukemia?",
+    "back": "t(15;17), which creates the PML::RARA fusion gene. Confirmation is by cytogenetics, FISH, or PCR, but a smear with suspicious promyelocytes should be reported urgently before confirmation."
+  },
+  {
+    "id": 62,
+    "domain": "evaluation",
+    "front": "What is the Philadelphia chromosome and which leukemia is it linked to?",
+    "back": "The t(9;22) translocation producing the BCR::ABL1 fusion gene. It is the hallmark of chronic myeloid leukemia and is found in about 95 percent of cases."
+  },
+  {
+    "id": 63,
+    "domain": "evaluation",
+    "front": "What does a typical CML blood film in chronic phase look like?",
+    "back": "Marked leukocytosis with a full range of granulocyte maturation (myelocytes, metamyelocytes, bands, segmented cells), few blasts, basophilia, and sometimes thrombocytosis. Myelocytes and neutrophils usually predominate."
+  },
+  {
+    "id": 64,
+    "domain": "evaluation",
+    "front": "What are smudge cells and in which leukemia are they typical?",
+    "back": "Smudge (basket) cells are fragile lymphocytes crushed during smear preparation. They are characteristic of chronic lymphocytic leukemia, which shows many small mature lymphocytes."
+  },
+  {
+    "id": 65,
+    "domain": "evaluation",
+    "front": "What persistent absolute lymphocyte count supports a diagnosis of CLL?",
+    "back": "A sustained monoclonal B lymphocytosis of 5 x10^9/L or more, confirmed by flow cytometry. The smear shows small mature lymphocytes with clumped chromatin and scant cytoplasm."
+  },
+  {
+    "id": 66,
+    "domain": "evaluation",
+    "front": "Which mutation is found in most patients with polycythemia vera?",
+    "back": "JAK2 V617F in over 95 percent of cases. The disease presents with raised hemoglobin and hematocrit, often with elevated white cells and platelets, and low erythropoietin."
+  },
+  {
+    "id": 67,
+    "domain": "evaluation",
+    "front": "What smear and count finding is the hallmark of essential thrombocythemia?",
+    "back": "A sustained, markedly raised platelet count (450 x10^9/L or more) with large or giant platelets on the film. Reactive causes such as iron deficiency or inflammation must be excluded."
+  },
+  {
+    "id": 68,
+    "domain": "evaluation",
+    "front": "What red cell shape is classic for primary myelofibrosis on the blood film?",
+    "back": "Teardrop cells (dacrocytes), along with a leukoerythroblastic picture of nucleated red cells and immature granulocytes. Bone marrow fibrosis causes the marrow aspirate to be a dry tap."
+  },
+  {
+    "id": 69,
+    "domain": "evaluation",
+    "front": "What dysplastic changes in neutrophils suggest a myelodysplastic syndrome?",
+    "back": "Hypogranular or agranular cytoplasm and hyposegmented nuclei (pseudo-Pelger-Huet cells). Dysplasia in at least 10 percent of cells of a lineage is the usual threshold."
+  },
+  {
+    "id": 70,
+    "domain": "evaluation",
+    "front": "What is a pseudo-Pelger-Huet cell?",
+    "back": "A neutrophil with a bilobed, pince-nez shaped nucleus and condensed chromatin, acquired in MDS or after chemotherapy. The inherited Pelger-Huet anomaly looks the same but the cells function normally."
+  },
+  {
+    "id": 71,
+    "domain": "evaluation",
+    "front": "Which abnormal erythroid finding in the bone marrow marks the MDS subtype with ring sideroblasts?",
+    "back": "Ring sideroblasts: erythroid precursors with iron-laden mitochondria ringing the nucleus on Prussian blue stain. They must make up at least 15 percent of erythroid precursors (5 percent with an SF3B1 mutation)."
+  },
+  {
+    "id": 72,
+    "domain": "evaluation",
+    "front": "What causes rouleaux on a blood film and why is it prominent in multiple myeloma?",
+    "back": "Excess serum proteins (especially monoclonal immunoglobulin) neutralize the red cell surface charge so cells stack like coins. The background of the film often stains blue from the high protein content."
+  },
+  {
+    "id": 73,
+    "domain": "evaluation",
+    "front": "Which cell is the malignant clone in multiple myeloma and how does it look?",
+    "back": "The plasma cell: oval cell with eccentric nucleus, clock-face chromatin, deep blue cytoplasm, and a pale perinuclear hof (Golgi zone). Flame cells and Mott cells are variants seen with abnormal immunoglobulin."
+  },
+  {
+    "id": 74,
+    "domain": "evaluation",
+    "front": "How do you recognize atypical lymphocytes from lymphoma cells in peripheral blood?",
+    "back": "Lymphoma cells are often monomorphic, with cleaved, folded or irregular nuclei, a size range from small to large, and basophilic cytoplasm. Reactive lymphocytes in infection are pleomorphic, with abundant cytoplasm that hugs neighbouring red cells."
+  },
+  {
+    "id": 75,
+    "domain": "evaluation",
+    "front": "What platelet count range is generally used as the adult reference interval, and what count defines thrombocytopenia?",
+    "back": "The usual adult reference interval is about 150 to 400 x10^9/L. Thrombocytopenia is a count below 150 x10^9/L. Always confirm a low count on the smear before reporting."
+  },
+  {
+    "id": 76,
+    "domain": "evaluation",
+    "front": "Name three common causes of reactive thrombocytosis.",
+    "back": "Iron deficiency, acute infection or inflammation, and recent splenectomy or surgery. These raise platelets secondarily, unlike essential thrombocythemia, which is a clonal marrow disorder."
+  },
+  {
+    "id": 77,
+    "domain": "evaluation",
+    "front": "How are microfilariae recognized on a stained blood film, and why is collection timing important for some species?",
+    "back": "They are long, sheathed or unsheathed worms with nuclei in a column, seen in thick films. Wuchereria and Brugia show nocturnal periodicity, so blood is best collected at night."
+  },
+  {
+    "id": 78,
+    "domain": "evaluation",
+    "front": "What causes EDTA-dependent pseudothrombocytopenia, and what does the smear show?",
+    "back": "An in-vitro antibody reacts with platelets in EDTA, causing clumping. The smear shows platelet clumps and the analyzer count is falsely low, so the patient is not truly thrombocytopenic."
+  },
+  {
+    "id": 79,
+    "domain": "evaluation",
+    "front": "What is platelet satellitism on a blood film?",
+    "back": "Platelets ring around neutrophils, an EDTA-related artifact. The platelets are not counted correctly by the analyzer, giving a falsely low count. A citrate recount can resolve it."
+  },
+  {
+    "id": 80,
+    "domain": "evaluation",
+    "front": "How do you correct a spurious platelet count caused by EDTA clumping?",
+    "back": "Recollect in sodium citrate (light blue tube), recount, and multiply the result by 1.1 to correct for the citrate dilution. Confirm the clumps are absent on the new film."
+  },
+  {
+    "id": 81,
+    "domain": "evaluation",
+    "front": "What are the typical smear and platelet features of immune thrombocytopenia (ITP)?",
+    "back": "Isolated low platelet count with normal red cell and white cell findings, and often large platelets. Bleeding is mucocutaneous. It is a diagnosis made after other causes are excluded."
+  },
+  {
+    "id": 82,
+    "domain": "evaluation",
+    "front": "Which blood film finding is the hallmark of thrombotic thrombocytopenic purpura (TTP)?",
+    "back": "Schistocytes (fragmented red cells) with marked thrombocytopenia. Associated findings are microangiopathic hemolytic anemia and raised LDH, caused by severe ADAMTS13 deficiency."
+  },
+  {
+    "id": 83,
+    "domain": "evaluation",
+    "front": "Heparin-induced thrombocytopenia usually appears how many days after starting heparin, and what is the key lab clue?",
+    "back": "Typically 5 to 10 days after starting heparin, with a platelet fall of more than 50 percent from baseline. Confirm with PF4 antibody testing; paradoxical thrombosis is the main risk."
+  },
+  {
+    "id": 84,
+    "domain": "evaluation",
+    "front": "Which inherited platelet disorder lacks GPIIb/IIIa and shows absent aggregation to ADP and collagen?",
+    "back": "Glanzmann thrombasthenia. Platelet count and size are normal, and ristocetin aggregation is normal because GPIb is intact. Fibrinogen binding fails, so there is no platelet to platelet bridging."
+  },
+  {
+    "id": 85,
+    "domain": "evaluation",
+    "front": "Bernard-Soulier syndrome lacks which glycoprotein, and what is the typical smear and ristocetin result?",
+    "back": "GPIb/IX/V is deficient. Findings are giant platelets, thrombocytopenia and absent ristocetin aggregation that is not corrected by normal plasma, because platelets cannot bind von Willebrand factor."
+  },
+  {
+    "id": 86,
+    "domain": "evaluation",
+    "front": "What is the usual coagulation pattern in von Willebrand disease?",
+    "back": "Prolonged APTT is possible because factor VIII is reduced, with a normal PT and platelet count. Ristocetin cofactor activity and VWF antigen are low in most types."
+  },
+  {
+    "id": 87,
+    "domain": "evaluation",
+    "front": "What is a Howell-Jolly body, and what does its presence suggest?",
+    "back": "A small round DNA remnant (nuclear fragment) in a red cell, purple on Wright stain. It suggests absent or hypofunctioning spleen, because the spleen normally removes these inclusions."
+  },
+  {
+    "id": 88,
+    "domain": "evaluation",
+    "front": "What do Pappenheimer bodies contain, and which stain confirms them?",
+    "back": "They contain iron granules and appear as small basophilic granules near the cell periphery on Wright stain. Prussian blue stain confirms iron. Seen in sideroblastic anemia and after splenectomy."
+  },
+  {
+    "id": 89,
+    "domain": "evaluation",
+    "front": "Basophilic stippling is caused by what, and name one classic association.",
+    "back": "Aggregated ribosomal RNA in red cells that stains blue as fine or coarse dots. Classic associations are lead poisoning, thalassemia and other disorders of impaired hemoglobin synthesis."
+  },
+  {
+    "id": 90,
+    "domain": "evaluation",
+    "front": "Which red cell shape is associated with liver disease and hemoglobin C, appearing as a bullseye?",
+    "back": "Target cells (codocytes), with a central dark spot ringed by a pale area. Also seen in thalassemia, iron deficiency and after splenectomy, due to excess membrane relative to hemoglobin."
+  },
+  {
+    "id": 91,
+    "domain": "evaluation",
+    "front": "How do acanthocytes differ from echinocytes?",
+    "back": "Acanthocytes have a few irregular spicules of varying length. Echinocytes (burr cells) have 10 to 30 short, evenly spaced projections and are often an artifact or seen in uremia."
+  },
+  {
+    "id": 92,
+    "domain": "evaluation",
+    "front": "Teardrop cells (dacrocytes) are classically seen in which condition?",
+    "back": "Myelofibrosis, where marrow fibrosis distorts cells as they leave. They also occur in thalassemia and myelophthisic anemia, usually with a leukoerythroblastic picture."
+  },
+  {
+    "id": 93,
+    "domain": "evaluation",
+    "front": "What is the central pallor shape of a stomatocyte?",
+    "back": "A slit-like or mouth-shaped area of central pallor. Seen in hereditary stomatocytosis, alcoholism and liver disease, and sometimes as a drying artifact."
+  },
+  {
+    "id": 94,
+    "domain": "evaluation",
+    "front": "How is the corrected WBC count calculated when nucleated RBCs are present?",
+    "back": "Corrected WBC = observed WBC x 100 divided by (100 + nRBC per 100 WBC). Example: WBC 10.0 with 25 nRBC per 100 WBC gives 10.0 x 100 / 125 = 8.0 x10^9/L."
+  },
+  {
+    "id": 95,
+    "domain": "evaluation",
+    "front": "What does polychromasia on a Wright-stained film indicate, and what supravital stain confirms reticulocytes?",
+    "back": "Blue-grey larger red cells that are young reticulocytes with residual RNA, indicating marrow response. New methylene blue or brilliant cresyl blue shows the reticulum for reticulocyte counts."
+  },
+  {
+    "id": 96,
+    "domain": "evaluation",
+    "front": "On a thick malaria smear, what is its main advantage over a thin smear?",
+    "back": "It concentrates parasites about 20 to 40 times, so it is more sensitive for detection. The thin smear is used for species identification and calculating percent parasitemia."
+  },
+  {
+    "id": 97,
+    "domain": "evaluation",
+    "front": "Which Plasmodium species shows banana-shaped gametocytes and multiple ring forms with applique forms?",
+    "back": "Plasmodium falciparum. Only rings and gametocytes are normally seen in peripheral blood, and parasitemia can be very high. It is the species associated with severe, life-threatening malaria."
+  },
+  {
+    "id": 98,
+    "domain": "evaluation",
+    "front": "Which lab features help recognize Babesia, and what is it commonly mistaken for?",
+    "back": "Tiny pleomorphic rings, sometimes in a Maltese cross tetrad form, with no pigment or gametocytes. It is often mistaken for P. falciparum rings, so travel and tick exposure history help."
+  },
+  {
+    "id": 99,
+    "domain": "evaluation",
+    "front": "In bone marrow, what is the normal myeloid to erythroid (M:E) ratio?",
+    "back": "About 3:1 to 4:1 in the healthy adult marrow. Maturation is assessed from the least to most mature cell, from blast through to the segmented neutrophil or orthochromatic normoblast."
+  },
+  {
+    "id": 100,
+    "domain": "evaluation",
+    "front": "In the normal myeloid series, which is the last cell stage that can still divide?",
+    "back": "The myelocyte is the last stage able to divide. Metamyelocytes, bands and segmented neutrophils are maturing cells only. Memory hook: the myelocyte is where secondary granules appear and the nucleus is round to oval."
+  },
+  {
+    "id": 101,
+    "domain": "evaluation",
+    "front": "How does a normoblast (orthochromatic erythroblast) differ from a polychromatic erythroblast on a Wright-stained film?",
+    "back": "The orthochromatic erythroblast has a small, dense, pyknotic nucleus with no visible chromatin pattern and pink cytoplasm. The polychromatic erythroblast has coarser clumped chromatin and blue-grey cytoplasm from mixed hemoglobin and RNA."
+  },
+  {
+    "id": 102,
+    "domain": "evaluation",
+    "front": "What are the key features of a normal megakaryocyte in bone marrow, and what do platelets arise from?",
+    "back": "A large cell (up to 160 um) with a multilobed nucleus and abundant granular cytoplasm. Platelets are shed as cytoplasmic fragments from the megakaryocyte. Thrombopoietin is the main growth factor driving its maturation."
+  },
+  {
+    "id": 103,
+    "domain": "evaluation",
+    "front": "A patient on warfarin has a prolonged PT. Which coagulation factor falls first and why does it drive the early PT rise?",
+    "back": "Factor VII has the shortest half-life of the vitamin K dependent factors (about 6 hours), so it falls first. Because PT is sensitive to factor VII, the PT lengthens within the first days of therapy."
+  },
+  {
+    "id": 104,
+    "domain": "evaluation",
+    "front": "What does the INR correct for, and what formula is used to calculate it?",
+    "back": "The INR corrects for differences in thromboplastin reagent sensitivity between labs. INR = (patient PT / mean normal PT) raised to the power of the ISI, where ISI is the reagent's international sensitivity index."
+  },
+  {
+    "id": 105,
+    "domain": "evaluation",
+    "front": "A patient not on anticoagulants has an isolated prolonged PT with a normal aPTT. Which factor deficiency is suspected?",
+    "back": "Factor VII deficiency. Factor VII is the only factor in the extrinsic pathway alone, so it prolongs the PT while the aPTT, which does not depend on it, stays normal. Early vitamin K deficiency can give the same pattern."
+  },
+  {
+    "id": 106,
+    "domain": "evaluation",
+    "front": "A patient has an isolated prolonged aPTT. Name the pathways the aPTT screens and the factors it is most sensitive to.",
+    "back": "The aPTT screens the intrinsic and common pathways: factors XII, XI, IX, VIII, X, V, II and fibrinogen, plus prekallikrein and HMWK. It is especially sensitive to deficiencies of factors VIII, IX and XI."
+  },
+  {
+    "id": 107,
+    "domain": "evaluation",
+    "front": "Why is the aPTT used to monitor unfractionated heparin, and what is the usual therapeutic target?",
+    "back": "Heparin enhances antithrombin inhibition of thrombin and factor Xa, prolonging the aPTT. The target is usually 1.5 to 2.5 times the control mean, but each lab should set its range by calibrating against anti-Xa heparin levels."
+  },
+  {
+    "id": 108,
+    "domain": "evaluation",
+    "front": "A patient has a prolonged aPTT but no bleeding, and factor XII is very low. What is the likely clinical significance?",
+    "back": "Factor XII, prekallikrein and HMWK deficiencies prolong the aPTT in vitro but cause no bleeding in patients. They are lab findings only, so do not delay surgery. Confirm with specific factor assays."
+  },
+  {
+    "id": 109,
+    "domain": "evaluation",
+    "front": "In a 1:1 mixing study, a prolonged aPTT corrects to normal. What does this pattern indicate?",
+    "back": "Correction suggests a factor deficiency, because normal plasma supplies the missing factor. At least 50 percent factor level in the mix is enough to normalize the clotting time. An inhibitor would not correct."
+  },
+  {
+    "id": 110,
+    "domain": "evaluation",
+    "front": "How does the incubated mixing study separate a time-dependent factor VIII inhibitor from a lupus anticoagulant?",
+    "back": "A factor VIII inhibitor is time and temperature dependent: the aPTT of the mix prolongs after 1 to 2 hours at 37 C. A lupus anticoagulant is immediate acting and does not strengthen with incubation."
+  },
+  {
+    "id": 111,
+    "domain": "evaluation",
+    "front": "Which factor assay result separates hemophilia A from hemophilia B in a male with a prolonged aPTT and normal PT?",
+    "back": "Low factor VIII activity with normal factor IX means hemophilia A. Low factor IX with normal factor VIII means hemophilia B. Both are X-linked recessive. Normal von Willebrand antigen helps exclude VWD as the cause of a low factor VIII."
+  },
+  {
+    "id": 112,
+    "domain": "evaluation",
+    "front": "Why can von Willebrand disease give a prolonged aPTT, and which tests help diagnose it?",
+    "back": "VWF carries and protects factor VIII, so low VWF can lower factor VIII and prolong the aPTT. Diagnosis uses VWF antigen, VWF activity (ristocetin cofactor or equivalent) and factor VIII. Platelet count is usually normal."
+  },
+  {
+    "id": 113,
+    "domain": "evaluation",
+    "front": "Why do factor assays use dilutions of patient plasma, and what does non-parallelism with the standard curve suggest?",
+    "back": "Several dilutions are tested to check that results are parallel to the reference curve. Non-parallel results suggest an inhibitor or interference, such as a lupus anticoagulant, that is falsely lowering the factor activity."
+  },
+  {
+    "id": 114,
+    "domain": "evaluation",
+    "front": "What does a low fibrinogen with a prolonged thrombin time suggest, and what is a common non-disease cause?",
+    "back": "Hypofibrinogenemia or dysfibrinogenemia can prolong the thrombin time. Heparin contamination is a common non-disease cause because heparin inhibits thrombin. A reptilase time stays normal if heparin is the cause."
+  },
+  {
+    "id": 115,
+    "domain": "evaluation",
+    "front": "Why is a negative D-dimer useful in excluding venous thromboembolism, and what limits a positive result?",
+    "back": "D-dimer is a breakdown product of cross-linked fibrin, so a negative result in a low pretest probability patient makes VTE unlikely. A positive result is not specific: surgery, pregnancy, infection, cancer and age also raise it."
+  },
+  {
+    "id": 116,
+    "domain": "evaluation",
+    "front": "What is the typical laboratory pattern in acute disseminated intravascular coagulation (DIC)?",
+    "back": "Prolonged PT and aPTT, low platelets, low fibrinogen, and markedly raised D-dimer. A falling platelet count and fibrinogen on repeat testing support the diagnosis. Fibrinogen can look normal early because it is an acute phase reactant."
+  },
+  {
+    "id": 117,
+    "domain": "evaluation",
+    "front": "Which blood film finding supports DIC, and why is trending results more informative than a single value?",
+    "back": "Schistocytes (fragmented red cells) with thrombocytopenia support microangiopathic change. Trending platelets, fibrinogen, PT and D-dimer over hours shows direction, because DIC is dynamic and a single normal value may not rule it out."
+  },
+  {
+    "id": 118,
+    "domain": "evaluation",
+    "front": "Why should protein C and protein S testing not be done during acute thrombosis or warfarin therapy?",
+    "back": "Both are vitamin K dependent and fall with warfarin, and acute clotting consumes them, so levels are falsely low. Test after the acute event, ideally off warfarin for 2 weeks or more, or interpret with caution."
+  },
+  {
+    "id": 119,
+    "domain": "evaluation",
+    "front": "Antithrombin levels fall during heparin therapy. Why does this matter when testing for antithrombin deficiency?",
+    "back": "Heparin therapy and acute thrombosis can lower antithrombin, giving a falsely low result. Interpret with the clinical context and repeat the test later, when the patient is off heparin and not acutely ill."
+  },
+  {
+    "id": 120,
+    "domain": "evaluation",
+    "front": "What is the most common inherited cause of activated protein C resistance, and how is it confirmed?",
+    "back": "Factor V Leiden, a point mutation (R506Q) that makes factor Va resistant to cleavage by activated protein C. It is confirmed by PCR genotyping. An APC resistance clotting assay is a functional screen."
+  },
+  {
+    "id": 121,
+    "domain": "evaluation",
+    "front": "How do direct oral anticoagulants (DOACs) such as rivaroxaban and dabigatran affect routine coagulation assays?",
+    "back": "They can prolong the PT or aPTT depending on drug and reagent, but the effect is unreliable. Dabigatran (direct thrombin inhibitor) markedly prolongs thrombin time. Normal screening tests do not exclude drug presence."
+  },
+  {
+    "id": 122,
+    "domain": "evaluation",
+    "front": "When is an anti-Xa assay used, and what drug-specific calibration is required?",
+    "back": "It measures activity of heparin (unfractionated or low molecular weight) or anti-Xa DOACs such as rivaroxaban and apixaban. The assay must be calibrated with the specific drug being measured, not a generic heparin calibrator."
+  },
+  {
+    "id": 123,
+    "domain": "evaluation",
+    "front": "A film shows schistocytes and low platelets, with prolonged PT and aPTT, low fibrinogen and high D-dimer. What is the likely picture and the first lab step?",
+    "back": "This points to DIC. The first lab step is to notify the clinician promptly and repeat platelets, PT, aPTT, fibrinogen and D-dimer to follow trend, while checking for clotted or underfilled tube artifacts."
+  },
+  {
+    "id": 124,
+    "domain": "evaluation",
+    "front": "A CBC shows anemia and thrombocytopenia with schistocytes, yet PT, aPTT and fibrinogen are normal. What condition is suggested?",
+    "back": "Thrombotic microangiopathy such as TTP or HUS. Normal coagulation tests help separate it from DIC. This is a hematologic emergency, so call the result to the clinician immediately."
+  },
+  {
+    "id": 125,
+    "domain": "evaluation",
+    "front": "What does a high RDW together with a low MCV most often suggest?",
+    "back": "Iron deficiency: the red cells vary widely in size (anisocytosis) and are small on average. Thalassemia trait usually shows a low MCV with a normal or only mildly raised RDW, which helps separate the two."
+  },
+  {
+    "id": 126,
+    "domain": "preparation_and_testing",
+    "front": "What spreader angle is used when making a wedge blood smear, and what happens if it changes?",
+    "back": "Use about 30 to 45 degrees. A steeper angle gives a shorter, thicker film; a shallower angle gives a longer, thinner film. Adjust the angle to the patient's hematocrit."
+  },
+  {
+    "id": 127,
+    "domain": "preparation_and_testing",
+    "front": "How big should the blood drop be for a wedge smear, and where is it placed on the slide?",
+    "back": "A small drop, a few millimetres across, placed near one end of the slide. An oversized drop produces a thick smear that runs too far and has no usable feathered edge."
+  },
+  {
+    "id": 128,
+    "domain": "preparation_and_testing",
+    "front": "How does spreading speed change the finished wedge smear?",
+    "back": "A fast, smooth push gives a shorter, thicker film. A slow push gives a longer, thinner film. Hesitating or stopping mid-push causes ridges, so spread in one steady motion."
+  },
+  {
+    "id": 129,
+    "domain": "preparation_and_testing",
+    "front": "Name common causes of a smear that is too thick.",
+    "back": "A drop that is too large, a spreader angle that is too steep, a fast push, or a high hematocrit. Cells overlap and stain dark, so morphology cannot be read."
+  },
+  {
+    "id": 130,
+    "domain": "preparation_and_testing",
+    "front": "Name common causes of a smear that is too thin.",
+    "back": "A small drop, a shallow spreader angle, a slow push, or a low hematocrit (anemia). The film is long with few cells, and the feathered edge can run off the slide."
+  },
+  {
+    "id": 131,
+    "domain": "preparation_and_testing",
+    "front": "What usually causes holes or streaks in a blood smear?",
+    "back": "Holes come from grease or fingerprints on the slide. Streaks and ridges come from a dirty or chipped spreader, uneven pressure, or hesitation. Use clean, grease-free slides and a smooth spreader."
+  },
+  {
+    "id": 132,
+    "domain": "preparation_and_testing",
+    "front": "What should a well-made wedge smear look like at its end?",
+    "back": "It covers about two thirds of the slide, has visible side margins, and ends in a feathered edge, a smooth tongue shape. The film should not run off the end of the slide."
+  },
+  {
+    "id": 133,
+    "domain": "preparation_and_testing",
+    "front": "What role does methanol play in Wright and Wright-Giemsa stains, and what buffer pH is typical?",
+    "back": "The methanol in the stain fixes the cells to the slide. Buffer pH is typically about 6.8, which gives balanced red cell pink and white cell nuclear purple."
+  },
+  {
+    "id": 134,
+    "domain": "preparation_and_testing",
+    "front": "Why must buffer pH be controlled during Romanowsky staining?",
+    "back": "Staining depends on acidic and basic dyes binding differently at a given pH. A small shift changes how red cells, nuclei and granules colour, so use freshly checked buffer."
+  },
+  {
+    "id": 135,
+    "domain": "preparation_and_testing",
+    "front": "A smear looks too blue with gray-blue red cells. What are likely causes?",
+    "back": "Buffer or rinse water too alkaline, staining time too long, or a smear that is too thick. Red cells turn blue-gray and eosinophil granules look gray or blue instead of orange-red."
+  },
+  {
+    "id": 136,
+    "domain": "preparation_and_testing",
+    "front": "A smear looks too pink with pale white cell nuclei. What are likely causes?",
+    "back": "Buffer or rinse water too acidic, too short a staining time, or over-rinsing. Red cells look bright red and nuclei look pale, with eosinophil granules overly bright."
+  },
+  {
+    "id": 137,
+    "domain": "preparation_and_testing",
+    "front": "What causes stain precipitate on a blood film, and how is it prevented?",
+    "back": "Unfiltered or old stain, dirty slides, or stain allowed to dry on the slide. Filter the stain, keep it covered, and rinse without pouring off the stain first so debris floats away."
+  },
+  {
+    "id": 138,
+    "domain": "preparation_and_testing",
+    "front": "What is the purpose of Kohler illumination?",
+    "back": "It gives even, bright illumination with the best resolution and contrast. Focus the field diaphragm, centre the condenser, then set the aperture diaphragm for the objective in use."
+  },
+  {
+    "id": 139,
+    "domain": "preparation_and_testing",
+    "front": "Why is oil used with the 100x objective, and what is the total magnification?",
+    "back": "Immersion oil has a refractive index close to glass, so less light is lost and resolution improves. With a 10x eyepiece, total magnification is 1000x."
+  },
+  {
+    "id": 140,
+    "domain": "preparation_and_testing",
+    "front": "Where on the smear is a manual differential performed, and how are fields moved?",
+    "back": "In the thin monolayer area where red cells barely touch, just behind the feathered edge. Move in a battlement (crenellated) track so the same area is not counted twice."
+  },
+  {
+    "id": 141,
+    "domain": "preparation_and_testing",
+    "front": "How do you correct a WBC count when nucleated red cells are present?",
+    "back": "Corrected WBC = WBC x 100 / (100 + NRBC per 100 WBC). Example: 10.0 with 25 NRBC gives 10.0 x 100 / 125 = 8.0 x10^9/L."
+  },
+  {
+    "id": 142,
+    "domain": "preparation_and_testing",
+    "front": "How is a platelet estimate made from a blood film, and what artifact should you check?",
+    "back": "Count platelets in several oil immersion fields in the monolayer, average, and multiply by the lab's set factor. Check the feathered edge for platelet clumps, which falsely lower automated counts."
+  },
+  {
+    "id": 143,
+    "domain": "preparation_and_testing",
+    "front": "Why compare a smear WBC estimate with the automated white cell count?",
+    "back": "It is a quick quality check. Averaging white cells over several fields should roughly match the instrument count, and a clear mismatch prompts a recount or investigation of the specimen."
+  },
+  {
+    "id": 144,
+    "domain": "preparation_and_testing",
+    "front": "What are the dimensions and volume of one large square of a Neubauer hemocytometer?",
+    "back": "Each large square is 1 mm x 1 mm with a chamber depth of 0.1 mm, so its volume is 0.1 mm3, which equals 0.1 microlitre."
+  },
+  {
+    "id": 145,
+    "domain": "preparation_and_testing",
+    "front": "Which Neubauer areas are counted for WBC and for RBC?",
+    "back": "WBC: the four corner large squares. RBC: five small squares in the central large square (four corners and the centre). Platelets are counted in the central square, ideally with phase contrast."
+  },
+  {
+    "id": 146,
+    "domain": "preparation_and_testing",
+    "front": "Which cells touching a square's borders are counted in a hemocytometer?",
+    "back": "Count cells touching the top and left borders, and skip cells touching the bottom and right borders. This stops cells on shared lines being counted twice."
+  },
+  {
+    "id": 147,
+    "domain": "preparation_and_testing",
+    "front": "Worked WBC example: 80 cells in 4 large squares, 1:20 dilution. What is the count?",
+    "back": "Volume counted is 4 x 0.1 = 0.4 microlitre. Count = 80 x 20 / 0.4 = 4000 per microlitre, which is 4.0 x10^9/L."
+  },
+  {
+    "id": 148,
+    "domain": "preparation_and_testing",
+    "front": "Worked RBC example: 400 cells in 5 small squares, 1:200 dilution. What is the count?",
+    "back": "Five small squares are 5/25 mm2 = 0.2 mm2, times 0.1 mm depth = 0.02 microlitre. Count = 400 x 200 / 0.02 = 4.0 x10^12/L."
+  },
+  {
+    "id": 149,
+    "domain": "preparation_and_testing",
+    "front": "What does new methylene blue stain in a reticulocyte, and how is the specimen prepared?",
+    "back": "It precipitates residual RNA as a blue network or granules in young red cells. Mix equal parts blood and stain, incubate roughly 10 to 15 minutes, then make a smear."
+  },
+  {
+    "id": 150,
+    "domain": "preparation_and_testing",
+    "front": "How does a Miller disc speed up a reticulocyte count?",
+    "back": "The disc has a large square B and a small square A (one ninth the area). Count retics in B and red cells in A: retic % = retics in B / (RBC in A x 9) x 100."
+  },
+  {
+    "id": 151,
+    "domain": "preparation_and_testing",
+    "front": "What physical principle does the Coulter method use to count and size blood cells?",
+    "back": "Cells are drawn through a small aperture between two electrodes. Each cell displaces conductive diluent and causes a voltage pulse. Pulse count equals cell number, and pulse height is proportional to cell volume."
+  },
+  {
+    "id": 152,
+    "domain": "preparation_and_testing",
+    "front": "On an impedance analyzer, why do two cells passing through the aperture together cause a counting error?",
+    "back": "Coincidence passage is recorded as one larger pulse, so the count is falsely low and the size falsely high. Analyzers apply a coincidence correction, and heavily elevated counts may need dilution."
+  },
+  {
+    "id": 153,
+    "domain": "preparation_and_testing",
+    "front": "In impedance counting, how is the WBC count obtained when the RBCs are present in the same sample?",
+    "back": "A lytic reagent destroys the RBCs and strips WBC cytoplasm to a small nuclear remnant, so only WBC nuclei are counted in the WBC channel. The lysed sample also supplies the hemoglobin measurement."
+  },
+  {
+    "id": 154,
+    "domain": "preparation_and_testing",
+    "front": "What cell property does forward-angle light scatter in a flow cell mainly measure?",
+    "back": "Forward scatter reflects cell size and volume. Side scatter reflects internal complexity, such as granules and nuclear lobulation. Plotting the two together separates lymphocytes, monocytes and granulocytes."
+  },
+  {
+    "id": 155,
+    "domain": "preparation_and_testing",
+    "front": "How do fluorescent nucleic acid dyes help an analyzer count reticulocytes or nucleated red cells?",
+    "back": "The dye binds RNA or DNA, and fluorescence intensity reflects nucleic acid content. Reticulocytes carry residual RNA and nRBCs carry DNA, so each group appears in its own region on the scattergram."
+  },
+  {
+    "id": 156,
+    "domain": "preparation_and_testing",
+    "front": "What is a major advantage of a flow-cytometric (laser-based) WBC differential over a manual 100-cell count?",
+    "back": "Thousands of cells are classified, giving much better statistical precision. Manual counts of 100 cells carry a large sampling error, especially for low-frequency cell types such as basophils."
+  },
+  {
+    "id": 157,
+    "domain": "preparation_and_testing",
+    "front": "Name the reagent chemistry behind the cyanmethemoglobin method and its measured wavelength.",
+    "back": "Ferricyanide oxidizes hemoglobin to methemoglobin, and cyanide converts it to stable cyanmethemoglobin, read at 540 nm. Absorbance is proportional to hemoglobin concentration, and the method is the international reference."
+  },
+  {
+    "id": 158,
+    "domain": "preparation_and_testing",
+    "front": "Why do many analyzers use sodium lauryl sulfate (SLS) hemoglobin instead of cyanide?",
+    "back": "SLS-hemoglobin avoids toxic cyanide waste. It forms a stable SLS-methemoglobin complex measured by absorbance, and it correlates well with the cyanmethemoglobin reference method."
+  },
+  {
+    "id": 159,
+    "domain": "preparation_and_testing",
+    "front": "Which sample conditions falsely raise a spectrophotometric hemoglobin result?",
+    "back": "Lipemia, very high WBC counts and heavy turbidity scatter light and raise absorbance. Correct by plasma replacement (spin and blank the plasma) for lipemia, or by centrifuging the lysate for a high WBC."
+  },
+  {
+    "id": 160,
+    "domain": "preparation_and_testing",
+    "front": "What is the usual centrifugation setting for a microhematocrit and why must the reading skip the buffy coat?",
+    "back": "Spin about 5 minutes at roughly 10,000 to 12,000 x g. Read only the red cell column, since the buffy coat holds WBCs and platelets and is not part of the packed red cell volume."
+  },
+  {
+    "id": 161,
+    "domain": "preparation_and_testing",
+    "front": "What is trapped plasma in a microhematocrit, and which direction does it push the result?",
+    "back": "A small plasma volume (about 1 to 3 percent) stays between packed red cells, so the spun hematocrit reads slightly high. It increases with spherocytes, sickle cells, macrocytes and high hematocrits."
+  },
+  {
+    "id": 162,
+    "domain": "preparation_and_testing",
+    "front": "How does an impedance analyzer produce its hematocrit value?",
+    "back": "It calculates hematocrit as RBC count multiplied by mean cell volume (MCV), divided by 10 for percent. No spinning is involved, so trapped plasma does not apply to the calculated value."
+  },
+  {
+    "id": 163,
+    "domain": "preparation_and_testing",
+    "front": "Give the formula for MCV and a worked example with Hct 0.40 L/L and RBC 4.0 x10^12/L.",
+    "back": "MCV (fL) = Hct (L/L) x 1000 divided by RBC (x10^12/L). Here 0.40 x 1000 = 400, then 400 divided by 4.0 gives 100 fL, which is at the upper edge of normal."
+  },
+  {
+    "id": 164,
+    "domain": "preparation_and_testing",
+    "front": "Give the formula for MCH and calculate it for Hb 120 g/L and RBC 4.0 x10^12/L.",
+    "back": "MCH (pg) = Hb (g/L) divided by RBC (x10^12/L). Here 120 divided by 4.0 equals 30 pg. MCH is the average hemoglobin mass in each red cell."
+  },
+  {
+    "id": 165,
+    "domain": "preparation_and_testing",
+    "front": "Give the formula for MCHC and calculate it for Hb 120 g/L and Hct 0.36 L/L.",
+    "back": "MCHC (g/L) = Hb (g/L) divided by Hct (L/L). Here 120 divided by 0.36 equals 333 g/L. It is the average hemoglobin concentration within packed red cells."
+  },
+  {
+    "id": 166,
+    "domain": "preparation_and_testing",
+    "front": "Which red cell index is the most useful quick check for a wrong or spurious CBC, and what limit applies?",
+    "back": "MCHC. A value above about 360 g/L is physiologically implausible and points to a falsely high hemoglobin (lipemia, hemolysis) or a falsely low hematocrit (cold agglutinins, RBC clumps)."
+  },
+  {
+    "id": 167,
+    "domain": "preparation_and_testing",
+    "front": "What does a histogram with two RBC populations (a bimodal curve) suggest?",
+    "back": "Two distinct cell sizes are present, such as a dimorphic anemia, recent transfusion or a mix of microcytes and normal cells. Check the RDW and the blood film to confirm."
+  },
+  {
+    "id": 168,
+    "domain": "preparation_and_testing",
+    "front": "What does a platelet histogram with a long tail running into the RBC region suggest?",
+    "back": "Giant platelets or platelet clumps, or small RBC fragments, are overlapping the size threshold. Review the film and the flags before reporting, since the count may be falsely low or high."
+  },
+  {
+    "id": 169,
+    "domain": "preparation_and_testing",
+    "front": "What interference do cold agglutinins cause on a CBC, and how is it resolved?",
+    "back": "RBCs clump in the cold, giving a falsely low RBC count and Hct, a high MCV and a very high MCHC. Warm the sample to 37 C and rerun, or use warmed saline replacement."
+  },
+  {
+    "id": 170,
+    "domain": "preparation_and_testing",
+    "front": "How do nucleated red blood cells (nRBCs) interfere with the automated WBC count?",
+    "back": "nRBC nuclei resist lysis and are counted as WBCs, falsely raising the WBC count. Many analyzers flag and correct this, or the tech corrects manually: corrected WBC = WBC x 100 divided by (nRBC per 100 WBC + 100)."
+  },
+  {
+    "id": 171,
+    "domain": "preparation_and_testing",
+    "front": "Which CBC result is a classic problem caused by EDTA-dependent platelet clumping, and what is the next step?",
+    "back": "A falsely low platelet count with clumps on the film. Recollect in sodium citrate (multiply the result by 1.1 for dilution) or use a fingerstick sample, then rerun and review the film."
+  },
+  {
+    "id": 172,
+    "domain": "preparation_and_testing",
+    "front": "What is a delta check on a CBC and what does it detect?",
+    "back": "A comparison of the current result with the patient's previous result. A change beyond a set limit, such as MCV shifting by several fL, can flag a mislabelled specimen or a wrong-patient sample."
+  },
+  {
+    "id": 173,
+    "domain": "preparation_and_testing",
+    "front": "State the rule of three for CBC results and what a failure means.",
+    "back": "Hb (g/L) is about 3 x RBC (x10^12/L) x 10, and Hct (%) is about 3 x Hb (g/dL). When the numbers do not fit, suspect interference or an error and investigate before reporting."
+  },
+  {
+    "id": 174,
+    "domain": "preparation_and_testing",
+    "front": "In the Westergren ESR method, what tube length, anticoagulant ratio and read time are used?",
+    "back": "A 200 mm vertical tube filled with 4 parts blood to 1 part sodium citrate, read as the millimetres of red cell fall after exactly 1 hour. The tube must stand at room temperature, away from vibration or tilt."
+  },
+  {
+    "id": 175,
+    "domain": "preparation_and_testing",
+    "front": "Name factors that falsely raise or lower the ESR.",
+    "back": "Raised by anemia, high fibrinogen and immunoglobulins, and a tilted tube. Lowered by polycythemia, sickle cells, spherocytes, microcytosis and clotted samples. Delayed testing (over 4 hours) also lowers the ESR."
+  },
+  {
+    "id": 176,
+    "domain": "preparation_and_testing",
+    "front": "What does the sickle solubility test detect, and what are its main limits?",
+    "back": "Hemoglobin S insolubility in reduced phosphate buffer gives a turbid solution. It cannot tell trait from disease, and false negatives occur in very low Hb S levels or in infants under 6 months. Confirm with electrophoresis or HPLC."
+  },
+  {
+    "id": 177,
+    "domain": "preparation_and_testing",
+    "front": "At what pH is routine alkaline hemoglobin electrophoresis run, and in which direction do hemoglobins migrate?",
+    "back": "Alkaline electrophoresis runs at pH 8.4 to 8.6. Hemoglobin is negatively charged at this pH, so it migrates toward the anode (positive pole). Order from anode: A, then F, S, and C nearest the origin."
+  },
+  {
+    "id": 178,
+    "domain": "preparation_and_testing",
+    "front": "Why is acid (citrate agar, pH about 6.0) electrophoresis used after an alkaline run shows a band in the S position?",
+    "back": "Acid agar separates Hb S from Hb D and Hb G, which co-migrate with S on alkaline media. In acid agar, S moves apart from D and G, which move with A. It also separates C from E and O-Arab."
+  },
+  {
+    "id": 179,
+    "domain": "preparation_and_testing",
+    "front": "What does a raised Hb A2 on HPLC (above about 3.5 percent) suggest, and what is the typical companion finding?",
+    "back": "A raised Hb A2 suggests beta thalassemia trait. The CBC usually shows microcytosis (low MCV) with a normal or raised red cell count. Iron deficiency can lower A2 and mask the trait."
+  },
+  {
+    "id": 180,
+    "domain": "preparation_and_testing",
+    "front": "In which condition is red cell osmotic fragility increased, and what does the cell shape explain?",
+    "back": "Hereditary spherocytosis. Spherocytes have a low surface-area-to-volume ratio, so they swell and lyse in less dilute saline than normal discs. Thalassemia and iron deficiency show decreased fragility (target cells)."
+  },
+  {
+    "id": 181,
+    "domain": "preparation_and_testing",
+    "front": "What is the principle of the Kleihauer-Betke test, and how do fetal and adult cells look?",
+    "back": "Acid elution of a blood smear. Hb F resists acid, so fetal cells stain bright pink-red, while adult cells lose their hemoglobin and appear as pale ghosts. Counting quantifies the fetomaternal bleed."
+  },
+  {
+    "id": 182,
+    "domain": "preparation_and_testing",
+    "front": "Which stain detects reticulocytes, and what does it make visible?",
+    "back": "New methylene blue, a supravital stain used on unfixed living cells. It precipitates residual ribosomal RNA in young red cells as a blue reticulum or granules. Count 1000 red cells for the percentage."
+  },
+  {
+    "id": 183,
+    "domain": "preparation_and_testing",
+    "front": "How are Heinz bodies detected, and what are they made of?",
+    "back": "Heinz bodies are denatured, precipitated hemoglobin seen with a supravital stain such as crystal violet or methyl violet, not on Wright stain. They appear as purple inclusions at the cell edge, often in G6PD deficiency."
+  },
+  {
+    "id": 184,
+    "domain": "preparation_and_testing",
+    "front": "Which cytochemical stains are positive in myeloblasts but negative in lymphoblasts?",
+    "back": "Myeloperoxidase and Sudan black B. Both mark myeloid granules (Auer rods too). Lymphoblasts are negative, so these stains help separate AML from ALL when morphology is unclear."
+  },
+  {
+    "id": 185,
+    "domain": "preparation_and_testing",
+    "front": "Which esterase stain marks monocytic cells, and what inhibits it?",
+    "back": "Nonspecific esterase (alpha-naphthyl butyrate or acetate) is positive in monocytic cells and is inhibited by sodium fluoride. Chloroacetate esterase is the specific esterase and marks neutrophil lineage."
+  },
+  {
+    "id": 186,
+    "domain": "preparation_and_testing",
+    "front": "Which stain is positive in hairy cell leukemia even after tartrate is added?",
+    "back": "TRAP, tartrate-resistant acid phosphatase. Hairy cells keep acid phosphatase activity in the presence of tartrate, whereas most other cells lose it. Flow cytometry (CD11c, CD25, CD103) is now often preferred."
+  },
+  {
+    "id": 187,
+    "domain": "preparation_and_testing",
+    "front": "How does leukocyte alkaline phosphatase (LAP) score help separate CML from a leukemoid reaction?",
+    "back": "LAP is low in chronic myeloid leukemia and high in a leukemoid reaction or infection. It is largely replaced by BCR::ABL1 molecular testing, but the pattern is still a classic recall point."
+  },
+  {
+    "id": 188,
+    "domain": "preparation_and_testing",
+    "front": "On flow cytometry, what do forward scatter and side scatter measure?",
+    "back": "Forward scatter reflects cell size. Side scatter reflects internal complexity or granularity. Together with CD45 intensity, they separate lymphocytes, monocytes, granulocytes and blasts on the plot."
+  },
+  {
+    "id": 189,
+    "domain": "preparation_and_testing",
+    "front": "Which CD markers identify T cells, B cells and immature blasts?",
+    "back": "CD3 marks T cells and CD19 (or CD20) marks B cells. CD34 and low CD45 mark immature blasts, and TdT marks immature lymphoid cells. CD14 marks monocytes, and CD138 marks plasma cells."
+  },
+  {
+    "id": 190,
+    "domain": "preparation_and_testing",
+    "front": "Why is CD45 versus side scatter a standard first gating plot in leukemia immunophenotyping?",
+    "back": "Blasts show dim CD45 with low side scatter, lying apart from mature lymphocytes (bright CD45) and granulocytes (high side scatter). It lets the analyst gate the blast population and assign lineage."
+  },
+  {
+    "id": 191,
+    "domain": "preparation_and_testing",
+    "front": "Why is the first small volume of a bone marrow aspirate used for smears?",
+    "back": "The first 1 to 2 mL is least diluted with peripheral blood, so the smears show true marrow cellularity and morphology. Later pulls are hemodiluted. Smears are made at the bedside before the sample clots."
+  },
+  {
+    "id": 192,
+    "domain": "preparation_and_testing",
+    "front": "How is a bone marrow trephine core biopsy processed before staining?",
+    "back": "It is fixed, then decalcified to soften the bone, embedded in paraffin and sectioned for H and E. Touch preparations are made from the fresh core before fixation. Over-decalcifying damages nuclear detail."
+  },
+  {
+    "id": 193,
+    "domain": "preparation_and_testing",
+    "front": "What is the correct blood to anticoagulant ratio for coagulation specimens, and which anticoagulant is used?",
+    "back": "Nine parts blood to one part 3.2 percent (0.109 mol/L) buffered sodium citrate in a light blue tube. Underfilling causes excess citrate, which dilutes the sample and falsely prolongs clotting times."
+  },
+  {
+    "id": 194,
+    "domain": "preparation_and_testing",
+    "front": "What must be done when the patient hematocrit is above 55 percent for coagulation testing?",
+    "back": "Reduce the citrate volume in the tube. A high hematocrit leaves less plasma, so the fixed citrate is relatively excessive and falsely prolongs the PT and aPTT. Use the formula supported by the lab policy."
+  },
+  {
+    "id": 195,
+    "domain": "preparation_and_testing",
+    "front": "What defines platelet-poor plasma for coagulation testing, and why does it matter?",
+    "back": "Plasma with a platelet count below 10 x10^9/L, made by centrifuging the citrate tube. Residual platelets release phospholipid and can shorten clotting times, notably masking a lupus anticoagulant or heparin effect."
+  },
+  {
+    "id": 196,
+    "domain": "preparation_and_testing",
+    "front": "How is the INR calculated from the patient PT?",
+    "back": "INR = (patient PT divided by the mean normal PT) raised to the power of the ISI. A lower ISI, closer to 1.0, means a more sensitive thromboplastin calibrated to the WHO reference."
+  },
+  {
+    "id": 197,
+    "domain": "preparation_and_testing",
+    "front": "What is the mean normal prothrombin time (MNPT) and how is it established?",
+    "back": "The geometric mean of PT results from at least 20 healthy, untreated adults, for each new thromboplastin lot and instrument. It is the denominator in the INR calculation."
+  },
+  {
+    "id": 198,
+    "domain": "preparation_and_testing",
+    "front": "What are the activators in aPTT reagents, and what do they trigger?",
+    "back": "Silica, kaolin, celite or ellagic acid activate the contact factors (XII, XI) in the presence of partial thromboplastin phospholipid and calcium. The aPTT is prolonged by deficiencies of VIII, IX, XI and XII."
+  },
+  {
+    "id": 199,
+    "domain": "preparation_and_testing",
+    "front": "Why can different aPTT reagents give different heparin therapeutic ranges?",
+    "back": "Reagents differ in activator type and phospholipid content, so sensitivity to heparin varies. Each laboratory must verify its therapeutic aPTT range for every new reagent lot against anti-Xa heparin levels."
+  },
+  {
+    "id": 200,
+    "domain": "preparation_and_testing",
+    "front": "What is the principle of the Clauss method for fibrinogen, and what is a typical reference range?",
+    "back": "Diluted plasma (usually 1 in 10) is clotted with excess thrombin, and the clotting time is inversely proportional to fibrinogen, read from a calibration curve. Normal is about 2.0 to 4.0 g/L."
+  },
+  {
+    "id": 201,
+    "domain": "preparation_and_testing",
+    "front": "Which test is prolonged by heparin: thrombin time or reptilase time?",
+    "back": "Thrombin time is prolonged by heparin. Reptilase time is not, because reptilase is unaffected by heparin. Both are prolonged by low fibrinogen, dysfibrinogenemia and fibrin degradation products."
+  },
+  {
+    "id": 202,
+    "domain": "preparation_and_testing",
+    "front": "What is the main clinical use of a D-dimer result in suspected venous thromboembolism?",
+    "back": "A negative D-dimer, in a patient with low or moderate pretest probability, helps rule out DVT or PE. It has high negative predictive value but poor specificity, so a positive result does not confirm thrombosis."
+  },
+  {
+    "id": 203,
+    "domain": "preparation_and_testing",
+    "front": "Which fibrin degradation product does a D-dimer assay detect, and why does it differ from a plain FDP test?",
+    "back": "D-dimer detects fragments from cross-linked fibrin broken down by plasmin, so it signals fibrinolysis of a formed clot. A plain FDP test also reacts to fibrinogen breakdown products."
+  },
+  {
+    "id": 204,
+    "domain": "preparation_and_testing",
+    "front": "Name three common causes of a falsely elevated or non-specific positive D-dimer.",
+    "back": "Pregnancy, recent surgery or trauma, malignancy, infection, advanced age, and liver disease all raise D-dimer without thrombosis. Rheumatoid factor can also interfere in some latex methods."
+  },
+  {
+    "id": 205,
+    "domain": "preparation_and_testing",
+    "front": "In a 1:1 mixing study, what does correction of a prolonged aPTT suggest?",
+    "back": "Correction into the reference interval suggests a factor deficiency, because the normal plasma supplies the missing factor. Failure to correct suggests an inhibitor such as a lupus anticoagulant or a factor antibody."
+  },
+  {
+    "id": 206,
+    "domain": "preparation_and_testing",
+    "front": "Why is an incubated mix (37 C for 1 to 2 hours) performed in a mixing study?",
+    "back": "Some factor inhibitors, such as factor VIII antibodies, act slowly and time-dependently. Immediate mixing may correct, but the incubated mix will prolong again, revealing the inhibitor."
+  },
+  {
+    "id": 207,
+    "domain": "preparation_and_testing",
+    "front": "What is the principle of a one-stage factor VIII assay?",
+    "back": "Patient plasma is diluted and added to factor VIII deficient plasma, then an aPTT is run. The clotting time is read against a reference curve to give percent activity."
+  },
+  {
+    "id": 208,
+    "domain": "preparation_and_testing",
+    "front": "Why are factor assays run at several dilutions, and what does non-parallelism suggest?",
+    "back": "Multiple dilutions test parallelism with the reference curve. Non-parallel lines suggest an inhibitor or interfering substance, and the factor activity should not be reported as a true value."
+  },
+  {
+    "id": 209,
+    "domain": "preparation_and_testing",
+    "front": "What is the screening principle of the dilute Russell viper venom time (dRVVT)?",
+    "back": "Russell viper venom directly activates factor X in the presence of phospholipid and calcium. Low phospholipid concentration makes the test sensitive to a lupus anticoagulant, which prolongs the clotting time."
+  },
+  {
+    "id": 210,
+    "domain": "preparation_and_testing",
+    "front": "How is a lupus anticoagulant confirmed after a prolonged dRVVT screen?",
+    "back": "Repeat the dRVVT with a high phospholipid concentration. Shortening of the clotting time by a set percentage or ratio shows the inhibitor was phospholipid dependent, confirming a lupus anticoagulant."
+  },
+  {
+    "id": 211,
+    "domain": "preparation_and_testing",
+    "front": "Why should lupus anticoagulant testing be done on double-centrifuged, platelet-poor plasma?",
+    "back": "Residual platelets release phospholipid that can neutralize the antibody and cause a false negative. Platelet-poor plasma (platelets under about 10 x10^9/L) is required."
+  },
+  {
+    "id": 212,
+    "domain": "preparation_and_testing",
+    "front": "Which anticoagulant therapies can cause a false positive lupus anticoagulant result?",
+    "back": "Unfractionated heparin (when not neutralized), direct thrombin inhibitors, and direct oral anticoagulants such as rivaroxaban or apixaban can prolong dRVVT, giving false positives. Check the patient's medications."
+  },
+  {
+    "id": 213,
+    "domain": "preparation_and_testing",
+    "front": "What is the principle of a chromogenic anti-Xa assay for heparin monitoring?",
+    "back": "Heparin and antithrombin inhibit a fixed excess of factor Xa. Residual Xa cleaves a chromogenic substrate, and the colour intensity is inversely proportional to heparin concentration."
+  },
+  {
+    "id": 214,
+    "domain": "preparation_and_testing",
+    "front": "Why are chromogenic assays less affected by a lupus anticoagulant than clot-based tests?",
+    "back": "They measure colour from substrate cleavage, not clot formation, so phospholipid-dependent antibodies do not interfere. This makes them useful for monitoring heparin in patients with a baseline prolonged aPTT."
+  },
+  {
+    "id": 215,
+    "domain": "preparation_and_testing",
+    "front": "How does a chromogenic antithrombin activity assay work?",
+    "back": "Patient antithrombin, with excess heparin, inhibits added thrombin or factor Xa. The remaining enzyme cleaves a chromogenic substrate, so colour is inversely proportional to antithrombin activity."
+  },
+  {
+    "id": 216,
+    "domain": "preparation_and_testing",
+    "front": "Which platelet agonists are commonly used in light transmission aggregometry?",
+    "back": "ADP, collagen, epinephrine, arachidonic acid, and ristocetin. Each probes a different pathway, so the pattern of response helps identify the platelet defect."
+  },
+  {
+    "id": 217,
+    "domain": "preparation_and_testing",
+    "front": "How is platelet aggregation measured in light transmission aggregometry?",
+    "back": "Platelet-rich plasma starts turbid. As platelets aggregate after an agonist is added, the sample clears and light transmission rises, measured against platelet-poor plasma as 100 percent."
+  },
+  {
+    "id": 218,
+    "domain": "preparation_and_testing",
+    "front": "What does a PFA-100 closure time measure, and what is a common cause of a prolonged result?",
+    "back": "It measures time for a platelet plug to close an aperture under high shear flow. Prolonged results occur with aspirin, von Willebrand disease, severe thrombocytopenia, and a low hematocrit."
+  },
+  {
+    "id": 219,
+    "domain": "preparation_and_testing",
+    "front": "Name patient or specimen factors that cause false results in platelet function testing.",
+    "back": "Recent aspirin or NSAID use, a low platelet count, a delayed or cold specimen, and a traumatic draw. Specimens should be kept at room temperature, never refrigerated, and tested within a few hours."
+  },
+  {
+    "id": 220,
+    "domain": "preparation_and_testing",
+    "front": "Describe the difference between optical and mechanical clot detection on coagulation analyzers.",
+    "back": "Optical methods detect a change in light transmission or scatter as fibrin forms. Mechanical methods detect increased viscosity, such as a steel ball movement slowing, when the clot forms."
+  },
+  {
+    "id": 221,
+    "domain": "preparation_and_testing",
+    "front": "Which specimen interferences affect optical clot detection, and which method is less affected?",
+    "back": "Lipemia, icterus, and hemolysis alter turbidity or absorbance and can interfere with optical detection. Mechanical detection is largely unaffected, so it is often used for such samples."
+  },
+  {
+    "id": 222,
+    "domain": "preparation_and_testing",
+    "front": "What is the usual diluent and counting chamber for a CSF total cell count?",
+    "back": "CSF is usually counted undiluted in a hemocytometer. Dilute with isotonic saline if cell numbers are high, and use dilute acetic acid only when lysing red cells is needed to count nucleated cells."
+  },
+  {
+    "id": 223,
+    "domain": "preparation_and_testing",
+    "front": "Why must hyaluronidase or a saline diluent be used for synovial fluid counts instead of acetic acid?",
+    "back": "Acetic acid causes mucin (hyaluronate) clot formation, trapping cells and spoiling the count. Use saline, or pretreat viscous fluid with hyaluronidase to reduce viscosity."
+  },
+  {
+    "id": 224,
+    "domain": "preparation_and_testing",
+    "front": "How is a cytocentrifuge slide made from a body fluid, and what is a common artifact?",
+    "back": "A small fluid volume is spun onto a slide in a cytospin funnel, concentrating cells in a spot. Cells may shrink or distort, and the stain is often a Wright-Giemsa stain."
+  },
+  {
+    "id": 225,
+    "domain": "preparation_and_testing",
+    "front": "What is the advantage of phase-contrast microscopy for manual platelet counts?",
+    "back": "Phase contrast makes unstained platelets stand out as bright, refractile bodies against a dark background, which makes them easier to tell apart from debris. Count them in a hemocytometer after diluting with ammonium oxalate."
+  },
+  {
+    "id": 226,
+    "domain": "preparation_and_testing",
+    "front": "How long can a citrated coagulation specimen for PT and aPTT be held at room temperature before testing?",
+    "back": "PT is generally stable up to 24 hours as a capped whole blood or separated plasma, while aPTT should be tested within 4 hours if unfractionated heparin is monitored. Follow the lab's validated limits."
+  },
+  {
+    "id": 227,
+    "domain": "specimen_collection",
+    "front": "What is the CLSI order of draw for the common venipuncture tubes?",
+    "back": "Blood culture, light blue citrate, red or gold serum (with or without gel), green heparin, lavender EDTA, then grey fluoride oxalate. Hook: the additive tubes come after the ones that must stay clean."
+  },
+  {
+    "id": 228,
+    "domain": "specimen_collection",
+    "front": "Why must the citrate tube be drawn before the EDTA tube?",
+    "back": "EDTA carried over on the needle chelates calcium and potassium and contaminates the citrate tube, falsely prolonging PT and aPTT because coagulation tests depend on calcium being restored."
+  },
+  {
+    "id": 229,
+    "domain": "specimen_collection",
+    "front": "Which additive in the lavender tube makes it the tube of choice for a CBC?",
+    "back": "K2EDTA or K3EDTA chelates calcium, which prevents clotting while preserving cell size and morphology. It works by binding calcium, so it cannot be used for coagulation testing."
+  },
+  {
+    "id": 230,
+    "domain": "specimen_collection",
+    "front": "What is the function of heparin tubes, and which test group do they suit?",
+    "back": "Heparin (lithium or sodium) activates antithrombin to block thrombin, giving plasma for chemistry. Sodium heparin is wrong for sodium testing, and heparin is unsuitable for blood films because it distorts stain background."
+  },
+  {
+    "id": 231,
+    "domain": "specimen_collection",
+    "front": "What does sodium fluoride in a grey top tube do for glucose testing?",
+    "back": "Fluoride inhibits glycolysis (enolase), so glucose in the tube stays stable for hours instead of falling about 5 to 7 percent per hour from cell metabolism. Oxalate is the anticoagulant."
+  },
+  {
+    "id": 232,
+    "domain": "specimen_collection",
+    "front": "How many times should an EDTA tube be gently inverted right after collection?",
+    "back": "Invert 8 to 10 times, gently, to mix EDTA fully with the blood. Under-mixing allows microclots and platelet clumps, while vigorous shaking causes hemolysis."
+  },
+  {
+    "id": 233,
+    "domain": "specimen_collection",
+    "front": "What does a microclot in an EDTA tube do to CBC results?",
+    "back": "Clots or fibrin strands trap cells, giving falsely low platelet and sometimes WBC and RBC counts. Examine for clots with applicator sticks and recollect if present."
+  },
+  {
+    "id": 234,
+    "domain": "specimen_collection",
+    "front": "What happens to blood cell morphology when an EDTA specimen sits for many hours before a film is made?",
+    "back": "Storage artifact appears: neutrophils swell, lobes degenerate, vacuoles form, and RBCs may crenate or become spheroidal. Make films within 2 to 3 hours for reliable morphology."
+  },
+  {
+    "id": 235,
+    "domain": "specimen_collection",
+    "front": "What is the required blood to anticoagulant ratio for a sodium citrate coagulation tube?",
+    "back": "Nine parts blood to one part 3.2 percent sodium citrate (9:1). The tube must be filled to its marked line, because the citrate volume is fixed for a full draw."
+  },
+  {
+    "id": 236,
+    "domain": "specimen_collection",
+    "front": "How does a short draw affect a citrate coagulation specimen?",
+    "back": "Too much citrate relative to plasma over-dilutes the sample and binds extra calcium, falsely prolonging PT and aPTT. Most labs reject tubes filled below 90 percent."
+  },
+  {
+    "id": 237,
+    "domain": "specimen_collection",
+    "front": "When must citrate volume be adjusted for coagulation tubes, and in which direction?",
+    "back": "When the hematocrit is above 55 percent, plasma volume is reduced, so excess citrate must be lowered by adding less citrate for the smaller plasma volume. Otherwise PT and aPTT are falsely prolonged."
+  },
+  {
+    "id": 238,
+    "domain": "specimen_collection",
+    "front": "How should a citrate tube be mixed after collection, and why not shake it?",
+    "back": "Gently invert 3 to 4 times. Vigorous shaking activates platelets and factors and can cause hemolysis, which affects clotting assays, so avoid it."
+  },
+  {
+    "id": 239,
+    "domain": "specimen_collection",
+    "front": "What is the first step of patient identification before a bedside collection?",
+    "back": "Ask an outpatient to state their full name and a second identifier such as date of birth, and compare with the requisition. Never prompt with the answer. For inpatients, also check the wristband."
+  },
+  {
+    "id": 240,
+    "domain": "specimen_collection",
+    "front": "When must a tube be labelled during collection?",
+    "back": "Label in the patient's presence, immediately after the draw, with two identifiers, date, time and collector initials. Never pre-label tubes or label away from the patient."
+  },
+  {
+    "id": 241,
+    "domain": "specimen_collection",
+    "front": "What should you do if an unlabelled or mislabelled specimen reaches the lab?",
+    "back": "Reject it and recollect, since it cannot be reliably tied to the patient. For irreplaceable specimens, follow lab policy with documented clinician and collector verification."
+  },
+  {
+    "id": 242,
+    "domain": "specimen_collection",
+    "front": "Why does a patient lying down versus sitting upright change lab results?",
+    "back": "Moving from supine to upright shifts plasma water into tissue, raising hemoglobin, hematocrit, protein and cell counts by about 5 to 10 percent. Standardize posture for serial results."
+  },
+  {
+    "id": 243,
+    "domain": "specimen_collection",
+    "front": "When should trough levels for therapeutic drug monitoring be collected?",
+    "back": "Collect the trough just before the next scheduled dose, when the drug level is lowest. Collecting after the dose gives a falsely high value."
+  },
+  {
+    "id": 244,
+    "domain": "specimen_collection",
+    "front": "How long can a tourniquet stay on before hemoconcentration affects results?",
+    "back": "Keep it on no longer than 1 minute. Longer application causes hemoconcentration and raises protein, calcium, cholesterol and cell counts, and can affect potassium."
+  },
+  {
+    "id": 245,
+    "domain": "specimen_collection",
+    "front": "Which vein is the first choice for adult routine venipuncture?",
+    "back": "The median cubital vein of the antecubital fossa, because it is large, well anchored and away from major nerves and arteries. Basilic is the last choice due to the nearby brachial artery and median nerve."
+  },
+  {
+    "id": 246,
+    "domain": "specimen_collection",
+    "front": "What is the correct way to wipe the first drop in a fingerstick for CBC?",
+    "back": "Wipe away the first drop, which has tissue fluid contamination, then collect the free flowing following drops. Do not squeeze hard, since tissue fluid dilutes the blood and lowers counts."
+  },
+  {
+    "id": 247,
+    "domain": "specimen_collection",
+    "front": "In what order should capillary tubes be filled to limit platelet clumping?",
+    "back": "Fill the lavender EDTA microtainer first, since platelets clump rapidly at the puncture site, then other additive tubes, then serum last. Mix EDTA tubes promptly."
+  },
+  {
+    "id": 248,
+    "domain": "specimen_collection",
+    "front": "Which site is used for capillary puncture in newborns and infants under one year?",
+    "back": "The lateral or medial plantar surface of the heel. Avoid the central heel and the posterior curve, where the calcaneus is close and can be injured, causing osteomyelitis."
+  },
+  {
+    "id": 249,
+    "domain": "specimen_collection",
+    "front": "What limits blood volume drawn from infants, and what risk does overcollection carry?",
+    "back": "Total blood volume is small, about 80 mL per kg in a newborn, so frequent draws can cause iatrogenic anemia. Follow lab limits, usually no more than about 3 percent of volume at once."
+  },
+  {
+    "id": 250,
+    "domain": "specimen_collection",
+    "front": "Why is blood not drawn from an arm with an IV infusing, and what is the alternative?",
+    "back": "IV fluid dilutes the specimen and can contaminate it with the infusate. Use the opposite arm; if impossible, draw below the IV site after stopping the infusion for at least 2 minutes with nurse approval."
+  },
+  {
+    "id": 251,
+    "domain": "specimen_collection",
+    "front": "Name three collection errors that commonly cause in vitro hemolysis of a hematology specimen.",
+    "back": "Small-gauge needle, vigorous tube shaking instead of gentle inversion, forcing blood through a syringe, drawing from a hematoma, or venipuncture before alcohol has dried. Prevent by good technique."
+  },
+  {
+    "id": 252,
+    "domain": "specimen_collection",
+    "front": "How does in vitro hemolysis change the CBC red cell results?",
+    "back": "RBC count and hematocrit fall because cells are lysed, while measured hemoglobin stays true, so MCHC rises falsely. A high MCHC with a pink plasma is the clue."
+  },
+  {
+    "id": 253,
+    "domain": "specimen_collection",
+    "front": "Why do many labs reject grossly hemolyzed citrate tubes for coagulation testing?",
+    "back": "Free hemoglobin interferes with optical clot detection, and the cell lysis suggests platelet and tissue factor activation. Results may be unreliable, so recollect by a clean venipuncture."
+  },
+  {
+    "id": 254,
+    "domain": "specimen_collection",
+    "front": "A CBC tube arrives with visible clots. What is the correct action and why?",
+    "back": "Reject and request recollection. Clots trap cells and platelets, giving falsely low counts and unreliable indices. Never remove a clot and run the remaining blood."
+  },
+  {
+    "id": 255,
+    "domain": "specimen_collection",
+    "front": "What fill level makes a light blue citrate tube unacceptable for PT and aPTT?",
+    "back": "Under about 90 percent of the draw volume. The 9:1 blood to citrate ratio is lost, excess citrate binds calcium, and clotting times are falsely prolonged."
+  },
+  {
+    "id": 256,
+    "domain": "specimen_collection",
+    "front": "A tube is past its expiry date. Why is it rejected for testing?",
+    "back": "Vacuum may be lost and the additive may have degraded, so the draw volume and anticoagulant effect are unreliable. Discard the tube and recollect into an in-date tube."
+  },
+  {
+    "id": 257,
+    "domain": "specimen_collection",
+    "front": "Which temperature rule applies to citrate tubes for PT and aPTT during transport?",
+    "back": "Keep at room temperature, do not refrigerate. Cold activates platelets and factor VII, which can shorten clotting times, so unspun capped samples are not placed on ice."
+  },
+  {
+    "id": 258,
+    "domain": "specimen_collection",
+    "front": "How long is an EDTA specimen for ESR generally stable at room temperature and at 4 C?",
+    "back": "About 4 hours at room temperature and up to 24 hours at 4 C (ICSH and CLSI guidance). Bring refrigerated samples to room temperature before running."
+  },
+  {
+    "id": 259,
+    "domain": "specimen_collection",
+    "front": "Why should transport avoid rough agitation, such as dropping tubes or long pneumatic tube trips without validation?",
+    "back": "Agitation causes in vitro hemolysis and can activate platelets. Pneumatic tube systems should be validated by the lab for the tube types and tests sent."
+  },
+  {
+    "id": 260,
+    "domain": "specimen_collection",
+    "front": "What is the usual stability limit of EDTA whole blood for a CBC, and what degrades first?",
+    "back": "Most analyzers accept room temperature samples within about 24 hours. Platelet and white cell morphology, and indices like MCV, degrade first as cells swell."
+  },
+  {
+    "id": 261,
+    "domain": "specimen_collection",
+    "front": "Within what time should a blood film be made from an EDTA sample for best morphology?",
+    "back": "Ideally within 2 to 3 hours of collection. Prolonged EDTA exposure causes artifacts such as crenated red cells, vacuolated neutrophils and degenerating lymphocytes."
+  },
+  {
+    "id": 262,
+    "domain": "specimen_collection",
+    "front": "For routine coagulation testing, how long is an unspun capped citrate sample acceptable for PT and for aPTT?",
+    "back": "PT up to 24 hours at room temperature. aPTT is more labile: process within 4 hours, and within 1 hour if monitoring unfractionated heparin (CLSI H21)."
+  },
+  {
+    "id": 263,
+    "domain": "specimen_collection",
+    "front": "What should you check on a requisition before collecting or testing a specimen?",
+    "back": "Two patient identifiers, the ordering provider, test requested, collection date and time, and clinical information. Query any missing or illegible item before proceeding."
+  },
+  {
+    "id": 264,
+    "domain": "specimen_collection",
+    "front": "A CBC is ordered again two hours after a normal result on a stable outpatient. What is the best response?",
+    "back": "Recognize a possible duplicate in the lab information system and contact the ordering provider per lab policy before collecting, to avoid unnecessary phlebotomy and cost."
+  },
+  {
+    "id": 265,
+    "domain": "specimen_collection",
+    "front": "What clue on a CBC suggests wrong blood in tube?",
+    "back": "A delta check failure: hemoglobin, MCV or other indices differ sharply from the patient's previous result without a clinical reason such as transfusion or bleeding."
+  },
+  {
+    "id": 266,
+    "domain": "specimen_collection",
+    "front": "A suspected wrong blood in tube result has been flagged. What is the first action?",
+    "back": "Hold the result and do not report it. Notify the supervisor, recollect with positive patient identification, compare results, and document an occurrence report per policy."
+  },
+  {
+    "id": 267,
+    "domain": "specimen_collection",
+    "front": "What does chain of custody mean for a legal specimen?",
+    "back": "A documented, unbroken record of every person who handled the specimen, with dates, times and transfers, so the sample's identity and integrity can be proven in court."
+  },
+  {
+    "id": 268,
+    "domain": "specimen_collection",
+    "front": "What controls are used on a legal specimen such as one for forensic or paternity testing?",
+    "back": "Verified patient identification, witnessed collection, tamper-evident seals, signed custody forms at each transfer, and secure storage. Follow the lab's legal specimen policy exactly."
+  },
+  {
+    "id": 269,
+    "domain": "specimen_collection",
+    "front": "When should an INR be drawn for a patient on warfarin?",
+    "back": "At a consistent time of day, ideally before the next warfarin dose. The INR reflects the stable effect of the drug, so timing consistency helps trend comparison."
+  },
+  {
+    "id": 270,
+    "domain": "specimen_collection",
+    "front": "When is the peak anti-Xa level drawn for a patient on subcutaneous low molecular weight heparin?",
+    "back": "About 4 hours after the dose, after at least the third or fourth dose has reached steady state. A trough is drawn just before the next dose when ordered."
+  },
+  {
+    "id": 271,
+    "domain": "specimen_collection",
+    "front": "What discard volume is generally used when drawing coagulation samples from a central line or catheter?",
+    "back": "At least 5 mL or six times the dead space volume of the line, per lab policy. Stop infusions first and use a syringe or discard tube, never the flush solution."
+  },
+  {
+    "id": 272,
+    "domain": "specimen_collection",
+    "front": "Why is drawing from the arm opposite an IV infusion preferred?",
+    "back": "It avoids dilution and contamination of the sample by infusing fluids or heparin. If a line must be used, pause infusions for at least 2 minutes and follow discard rules."
+  },
+  {
+    "id": 273,
+    "domain": "specimen_collection",
+    "front": "A patient has an unexpectedly prolonged aPTT and thrombin time but a normal PT, and a heparinized line was used. What is suspected, and what is done?",
+    "back": "Heparin contamination of the sample. Report nothing as final, then recollect by clean venipuncture from the opposite arm, or after proper line discard, and rerun."
+  },
+  {
+    "id": 274,
+    "domain": "specimen_collection",
+    "front": "How should a blood sample for cold agglutinin testing be kept from collection until the serum or plasma is separated?",
+    "back": "Keep it warm at about 37 C (warm pack or heat block) until separated. Cooling lets the antibody bind red cells, so cells clump and the antibody is lost into the clot."
+  },
+  {
+    "id": 275,
+    "domain": "specimen_collection",
+    "front": "Why can a cold agglutinin sample give a falsely high MCV and falsely low red cell count on an analyzer?",
+    "back": "Red cells agglutinate in the cooled sample, so clumps are counted as single large cells. Warm the sample to 37 C and rerun, or use a prewarmed collection."
+  },
+  {
+    "id": 276,
+    "domain": "specimen_collection",
+    "front": "Why must a cryoglobulin specimen be collected in prewarmed tubes and transported at 37 C?",
+    "back": "Cryoglobulins precipitate or gel below body temperature. Cooling before clot retraction traps them in the clot and gives a false negative result."
+  },
+  {
+    "id": 277,
+    "domain": "specimen_collection",
+    "front": "What is the usual tube type and handling for a cryoglobulin specimen?",
+    "back": "Plain red-top (no gel, no anticoagulant) kept at 37 C to clot, then spun warm. The serum is then refrigerated and checked over several days for a cryoprecipitate."
+  },
+  {
+    "id": 278,
+    "domain": "specimen_collection",
+    "front": "Which anticoagulant is usually used for a bone marrow aspirate sent for morphology and flow cytometry?",
+    "back": "EDTA (lavender) for morphology and counts. Flow cytometry often uses sodium heparin (green). Follow the local requisition, since cytogenetics also needs heparin."
+  },
+  {
+    "id": 279,
+    "domain": "specimen_collection",
+    "front": "Why should bone marrow aspirate smears be made at the bedside immediately after collection?",
+    "back": "Marrow clots within seconds without anticoagulant, so fresh smears must be prepared at once. Particles are spread thinly and air dried, giving good cell morphology."
+  },
+  {
+    "id": 280,
+    "domain": "specimen_collection",
+    "front": "What must be labelled on every bone marrow slide and tube at the bedside?",
+    "back": "Two patient identifiers (name and ID number), the collection site, date and time, taken in front of the patient. Slides are labelled in pencil or solvent-resistant marker on the frosted end."
+  },
+  {
+    "id": 281,
+    "domain": "specimen_collection",
+    "front": "In what order are cerebrospinal fluid tubes numbered and used in most labs?",
+    "back": "Tube 1 chemistry and serology, tube 2 microbiology, tube 3 cell count and differential (least blood contamination from the puncture), and tube 4 if sent for other tests."
+  },
+  {
+    "id": 282,
+    "domain": "specimen_collection",
+    "front": "Why is the CSF cell count tube usually the last or later tube collected?",
+    "back": "The first tubes may carry blood from the needle trauma. A later tube is clearer, so the red and white cell counts better reflect the true fluid."
+  },
+  {
+    "id": 283,
+    "domain": "specimen_collection",
+    "front": "Why should a CSF specimen for cell count be delivered and counted promptly?",
+    "back": "Cells, especially neutrophils, lyse within one to two hours, lowering counts. Deliver immediately at room temperature and never refrigerate a CSF intended for culture."
+  },
+  {
+    "id": 284,
+    "domain": "specimen_collection",
+    "front": "Which anticoagulant is acceptable for a synovial fluid cell count, and which should be avoided?",
+    "back": "Use liquid EDTA or sodium heparin. Avoid powdered anticoagulants and oxalate, since they form crystals that mimic pathologic crystals under polarized light."
+  },
+  {
+    "id": 285,
+    "domain": "specimen_collection",
+    "front": "Why can a viscous synovial fluid cause trouble with a manual cell count, and how is it handled?",
+    "back": "Hyaluronate makes the fluid thick, so cells clump. Pretreat with hyaluronidase or mix with a drop of saline as per procedure, then count in a hemocytometer."
+  },
+  {
+    "id": 286,
+    "domain": "specimen_collection",
+    "front": "When is a blood film for malaria best collected relative to a patient's fever?",
+    "back": "Collect at the time of suspicion, ideally during or just after a fever spike when parasites are most numerous. Repeat films every 12 to 24 hours for three sets if the first is negative."
+  },
+  {
+    "id": 287,
+    "domain": "specimen_collection",
+    "front": "Why is a malaria film a STAT request, and how many films are needed to rule it out?",
+    "back": "Plasmodium falciparum can be rapidly fatal, so it is read urgently. Negative thick and thin films on three sets over 24 to 48 hours are needed to reasonably exclude malaria."
+  },
+  {
+    "id": 288,
+    "domain": "specimen_collection",
+    "front": "Why should EDTA blood for a malaria film be smeared soon after collection?",
+    "back": "Prolonged EDTA exposure distorts parasite and red cell morphology and can cause artifacts. Make thick and thin films within about an hour, ideally sooner."
+  },
+  {
+    "id": 289,
+    "domain": "specimen_collection",
+    "front": "How is plasma prepared for coagulation testing so that it is platelet-poor?",
+    "back": "Centrifuge the citrate tube, commonly about 1500 g for 15 minutes, to give plasma with a platelet count below 10 x10^9/L. Do not disturb the buffy coat when removing plasma."
+  },
+  {
+    "id": 290,
+    "domain": "specimen_collection",
+    "front": "What is the purpose of a double spin when freezing plasma for later coagulation tests?",
+    "back": "Spinning twice and transferring the plasma to a plastic tube removes residual platelets. Platelets would release phospholipid on freezing and thawing and shorten clotting times."
+  },
+  {
+    "id": 291,
+    "domain": "specimen_collection",
+    "front": "At what temperature should platelet-poor plasma be stored if frozen for later testing?",
+    "back": "Freeze at minus 20 C for short storage (about two weeks) or minus 70 C for longer storage. Thaw quickly at 37 C and mix before testing, and never refreeze."
+  },
+  {
+    "id": 292,
+    "domain": "specimen_collection",
+    "front": "How are a STAT specimen and a routine specimen handled differently on arrival at the lab?",
+    "back": "STAT samples are accessioned and tested immediately ahead of routine work, with results phoned if critical. Priority is set by clinical urgency, not by order of arrival."
+  },
+  {
+    "id": 293,
+    "domain": "specimen_collection",
+    "front": "What must be entered into the LIS when a specimen is accessioned?",
+    "back": "Patient identifiers, ordering provider, tests requested, collection date and time, specimen type, collector ID and receipt time. A unique accession number links the tube to the record."
+  },
+  {
+    "id": 294,
+    "domain": "specimen_collection",
+    "front": "How does a patient's age affect interpretation of a hematology result, with one example?",
+    "back": "Reference intervals differ by age. Newborns have higher hemoglobin and MCV than adults, and children have higher lymphocyte counts, so use age-specific reference ranges."
+  },
+  {
+    "id": 295,
+    "domain": "specimen_collection",
+    "front": "How do altitude and smoking change hemoglobin and hematocrit results?",
+    "back": "Both raise them. Living at high altitude and smoking reduce oxygen delivery, so the body makes more red cells (smokers also have raised carboxyhemoglobin)."
+  },
+  {
+    "id": 296,
+    "domain": "specimen_collection",
+    "front": "What must a collector do if a patient refuses a blood draw?",
+    "back": "Respect the refusal, never force the draw, explain the reason for the test calmly, and notify the nurse or ordering provider. Document the refusal and who was informed."
+  },
+  {
+    "id": 297,
+    "domain": "specimen_collection",
+    "front": "What should be done when a tube is received with insufficient volume for the anticoagulant ratio, for example a short citrate tube?",
+    "back": "Reject it and request recollection, since excess citrate dilutes the sample and falsely prolongs clotting times. Document the rejection and notify the collector or unit."
+  },
+  {
+    "id": 298,
+    "domain": "specimen_collection",
+    "front": "A tube label does not match the requisition. What is the correct action?",
+    "back": "Do not test or relabel it. Return it for recollection, or follow the policy for irreplaceable samples with documented positive identification by the collector. Record the error and notify the supervisor."
+  },
+  {
+    "id": 299,
+    "domain": "specimen_collection",
+    "front": "Why must a light blue citrate tube be filled to the marked line?",
+    "back": "Coagulation tests depend on a fixed 9 to 1 ratio of blood to 3.2 percent sodium citrate. An underfilled tube holds too much citrate, which over-dilutes the plasma and falsely prolongs PT and aPTT."
+  },
+  {
+    "id": 300,
+    "domain": "specimen_collection",
+    "front": "How should a capillary CBC sample be collected to limit platelet clumping?",
+    "back": "Wipe away the first drop, let blood flow freely into the EDTA microtainer without squeezing, and mix by gentle inversion straight away. Slow collection or squeezing activates platelets and causes clumps and falsely low counts."
+  },
+  {
+    "id": 301,
+    "domain": "reporting",
+    "front": "Why does a hematology lab keep a written list of critical values with set limits?",
+    "back": "Critical values signal possible immediate danger to the patient. The lab sets limits with its medical director and clinicians, so every technologist reports the same result the same way."
+  },
+  {
+    "id": 302,
+    "domain": "reporting",
+    "front": "A hemoglobin of 45 g/L is reported. What is the correct first action?",
+    "back": "Treat it as a critical value: confirm the sample is correct and has no clot or dilution error, then phone the responsible clinician or nurse at once and document who was told, when, and the read-back."
+  },
+  {
+    "id": 303,
+    "domain": "reporting",
+    "front": "What must be documented when a critical value is phoned to a clinician?",
+    "back": "The result, the date and time, the name of the person who received it, and that the value was read back. Many labs also record who made the call, to prove timely notification."
+  },
+  {
+    "id": 304,
+    "domain": "reporting",
+    "front": "A coagulation sample gives an aPTT that is greater than the instrument's upper limit. What do you check before reporting?",
+    "back": "Check for a short draw (excess citrate), clotting, heparin contamination from a line draw, and a patient history of heparin. Then recollect if needed and phone the result if it is confirmed critical."
+  },
+  {
+    "id": 305,
+    "domain": "reporting",
+    "front": "Which two hematology results are classic critical values for bleeding risk when markedly low?",
+    "back": "A very low platelet count and a very low fibrinogen. Both can mean spontaneous bleeding, so confirm the sample (check for clots, platelet clumping) and notify the clinician quickly."
+  },
+  {
+    "id": 306,
+    "domain": "reporting",
+    "front": "An analyzer gives a platelet count of 40 x10^9/L with a platelet clump flag. What should you do before reporting?",
+    "back": "Examine the film for clumps and recollect in citrate if clumping is seen. Do not report the falsely low count as the true value. EDTA-dependent clumping is the usual cause."
+  },
+  {
+    "id": 307,
+    "domain": "reporting",
+    "front": "What should happen to a CBC that has an analyzer flag such as blasts or atypical lymphocytes?",
+    "back": "Do not autoverify. Prepare and review a stained film, confirm or rule out the flagged cells, and add a verification comment or refer the film according to the lab's rules."
+  },
+  {
+    "id": 308,
+    "domain": "reporting",
+    "front": "What does a nucleated red blood cell flag do to the reported white cell count?",
+    "back": "Nucleated RBCs can be counted as lymphocytes, falsely raising the WBC. The count must be corrected for the NRBCs, using the NRBC per 100 WBC count, before the corrected WBC is reported."
+  },
+  {
+    "id": 309,
+    "domain": "reporting",
+    "front": "The corrected WBC formula for nucleated RBCs: how is it applied?",
+    "back": "Corrected WBC = observed WBC x 100 / (100 + NRBC per 100 WBC). Example: WBC 10.0 with 25 NRBC gives 10.0 x 100 / 125 = 8.0 x10^9/L."
+  },
+  {
+    "id": 310,
+    "domain": "reporting",
+    "front": "Why must hemoglobin and MCV reference intervals be age and sex specific?",
+    "back": "Values change with development and hormones. Adult males run higher hemoglobin and hematocrit than adult females, and children and newborns have their own ranges. A single adult range would mislabel them."
+  },
+  {
+    "id": 311,
+    "domain": "reporting",
+    "front": "How do newborn hemoglobin and MCV compare with adult values?",
+    "back": "Newborns have a high hemoglobin and a high (macrocytic) MCV, then both fall over the first weeks to months. An adult range applied to a newborn would wrongly flag normal babies."
+  },
+  {
+    "id": 312,
+    "domain": "reporting",
+    "front": "Which white cell type is normally most numerous in young children, in contrast to adults?",
+    "back": "Lymphocytes. A child's differential is lymphocyte predominant until about school age, when neutrophils become the main cell, so adult differential ranges do not apply."
+  },
+  {
+    "id": 313,
+    "domain": "reporting",
+    "front": "What is a delta check in hematology?",
+    "back": "A comparison of the current result with the patient's previous result, flagging a change larger than set limits. It can reveal a wrong patient, mislabelled sample, contamination, or a real clinical change."
+  },
+  {
+    "id": 314,
+    "domain": "reporting",
+    "front": "A delta check shows MCV changed from 88 fL to 112 fL in two days. What is the first thing to investigate?",
+    "back": "Suspect a specimen identification error or mix-up first. Confirm the patient ID and label, then review other indices such as RDW and the film before reporting or phoning."
+  },
+  {
+    "id": 315,
+    "domain": "reporting",
+    "front": "A differential is reported as 60 percent neutrophils with a WBC of 5.0 x10^9/L. What is the absolute neutrophil count?",
+    "back": "Absolute count = percentage x WBC. So 0.60 x 5.0 = 3.0 x10^9/L. Absolute counts are more meaningful than percentages when the total WBC is abnormal."
+  },
+  {
+    "id": 316,
+    "domain": "reporting",
+    "front": "Why can a normal differential percentage hide a real problem?",
+    "back": "Percentages always total 100, so a normal looking percent can sit on a very low or high WBC. Converting to absolute counts shows true neutropenia, lymphopenia, or lymphocytosis."
+  },
+  {
+    "id": 317,
+    "domain": "reporting",
+    "front": "How is the absolute neutrophil count calculated when bands are reported?",
+    "back": "ANC = WBC x (percent segmented neutrophils plus percent bands) / 100. Both mature and band forms are included, and the result is used to assess infection risk in neutropenia."
+  },
+  {
+    "id": 318,
+    "domain": "reporting",
+    "front": "What is the common grading scale for reporting abnormal red cell morphology?",
+    "back": "A semi-quantitative scale from 1+ (slight) to 4+ (marked), based on how many cells per oil field show the change. Each lab defines its own thresholds and applies them consistently."
+  },
+  {
+    "id": 319,
+    "domain": "reporting",
+    "front": "Which standard terms describe a smear with variation in red cell size and in shape?",
+    "back": "Anisocytosis describes variation in size, and poikilocytosis describes variation in shape. Use the standard terms, not informal descriptions, so every reader interprets the film the same way."
+  },
+  {
+    "id": 320,
+    "domain": "reporting",
+    "front": "Name three findings on a blood film that usually require referral to a pathologist or hematologist.",
+    "back": "Blasts, schistocytes with thrombocytopenia (suspected TTP or HUS), and abnormal or unidentified cells such as suspected lymphoma cells or parasites. Follow the lab's written referral criteria."
+  },
+  {
+    "id": 321,
+    "domain": "reporting",
+    "front": "When blasts are seen on a smear from a patient with no prior history, what is the correct action?",
+    "back": "Treat it as an urgent finding: confirm the cells, notify the pathologist or hematologist, and phone the clinician promptly as the lab policy requires. Do not wait for routine reporting."
+  },
+  {
+    "id": 322,
+    "domain": "reporting",
+    "front": "Schistocytes with a very low platelet count on a film suggest what urgent concern?",
+    "back": "A microangiopathic process such as thrombotic thrombocytopenic purpura (TTP), which can be fatal without prompt treatment. Notify the clinician and pathologist immediately, in line with lab policy."
+  },
+  {
+    "id": 323,
+    "domain": "reporting",
+    "front": "Malaria parasites are seen on a thin film. How should the result be handled?",
+    "back": "Treat it as an urgent critical result: phone the clinician right away, and report as the lab requires, since malaria is a reportable disease to public health. Do not delay for routine reporting."
+  },
+  {
+    "id": 324,
+    "domain": "reporting",
+    "front": "What is the usual therapeutic INR range for warfarin in most indications, such as atrial fibrillation and venous thromboembolism?",
+    "back": "An INR of 2.0 to 3.0, with a target of 2.5. Some indications, such as certain mechanical heart valves, use a higher target set by the clinician, so report the result and let the clinician interpret."
+  },
+  {
+    "id": 325,
+    "domain": "reporting",
+    "front": "An INR comes back markedly above the lab's critical limit on a patient taking warfarin. What do you do?",
+    "back": "Confirm the sample was filled correctly (a short draw falsely prolongs the INR) and has no clot, then phone the result to the clinician promptly and document the read-back, since bleeding risk is high."
+  },
+  {
+    "id": 326,
+    "domain": "reporting",
+    "front": "A PT and aPTT are both prolonged and do not correct on a 1:1 mixing study. How is this reported and what does it suggest?",
+    "back": "Report the prolonged results with a comment that mixing did not correct. Failure to correct suggests an inhibitor (such as a lupus anticoagulant or factor antibody) rather than a factor deficiency."
+  },
+  {
+    "id": 327,
+    "domain": "reporting",
+    "front": "An aPTT is unexpectedly prolonged on a patient receiving unfractionated heparin. What comment or check supports accurate reporting?",
+    "back": "Note the heparin therapy on the report. A prolonged aPTT is the expected effect. If the history is unclear, a thrombin time or heparin neutralization check can confirm heparin presence."
+  },
+  {
+    "id": 328,
+    "domain": "reporting",
+    "front": "Why can a lupus anticoagulant cause a prolonged aPTT in a patient who is not bleeding?",
+    "back": "The antibody interferes with phospholipid-dependent clotting reagents in vitro. It is associated with thrombosis, not bleeding. Report the result with a comment recommending further investigation."
+  },
+  {
+    "id": 329,
+    "domain": "reporting",
+    "front": "A sample drawn from a central line is suspected of heparin contamination. What should the technologist do before reporting coagulation results?",
+    "back": "Do not report the results as valid. Request a recollection by peripheral venipuncture, or from the line after proper discard, and document the reason for rejection."
+  },
+  {
+    "id": 330,
+    "domain": "reporting",
+    "front": "A coagulation tube is filled to only 50 percent of its draw volume. How is it handled?",
+    "back": "Reject it and request a recollection. Underfilling alters the 9:1 blood to citrate ratio, excess citrate falsely prolongs PT and aPTT. Document the rejection."
+  },
+  {
+    "id": 331,
+    "domain": "reporting",
+    "front": "A visible clot is found in an EDTA tube for a CBC. What is the correct action?",
+    "back": "Do not report the CBC. Clots trap cells and falsely lower counts. Request a recollection and record the rejection and the notification of the collector or ordering provider."
+  },
+  {
+    "id": 332,
+    "domain": "reporting",
+    "front": "A CBC specimen is markedly hemolyzed. Which results are affected and what comment is added?",
+    "back": "In vitro hemolysis lowers the RBC count and hematocrit while hemoglobin stays accurate, so MCHC rises falsely. Add a specimen quality comment or request a recollection per laboratory policy."
+  },
+  {
+    "id": 333,
+    "domain": "reporting",
+    "front": "What is autoverification in hematology?",
+    "back": "Computer rules compare instrument results with set limits, delta checks, flags and critical values. Results that pass all rules release without technologist review. Any failure holds the result for manual review."
+  },
+  {
+    "id": 334,
+    "domain": "reporting",
+    "front": "Name three typical triggers that stop a CBC from autoverifying.",
+    "back": "Instrument suspect flags (such as blasts or abnormal WBC scattergram), failed delta check, and results outside critical or analytical limits. Any of these send the sample to smear review."
+  },
+  {
+    "id": 335,
+    "domain": "reporting",
+    "front": "Why must autoverification rules be validated before use and rechecked after changes?",
+    "back": "Validation proves the rules hold back every unsafe result and release only reliable ones. Record the testing, and revalidate after any instrument, software or rule change, per ISO 15189 quality requirements."
+  },
+  {
+    "id": 336,
+    "domain": "reporting",
+    "front": "A hemoglobin result has been released and then found to be wrong. What is the first step?",
+    "back": "Verify the correct result, then notify the ordering provider promptly if the error could affect care. Issue a corrected report that keeps the original visible and is clearly marked as corrected."
+  },
+  {
+    "id": 337,
+    "domain": "reporting",
+    "front": "What must a corrected laboratory report show?",
+    "back": "The corrected result clearly labelled as corrected, the original result retained for reference, the date and time of correction, who made it, and the notification record. Never silently overwrite the original value."
+  },
+  {
+    "id": 338,
+    "domain": "reporting",
+    "front": "Who must be told about a corrected result that may have changed treatment?",
+    "back": "The ordering provider or responsible clinician, notified directly. Record the name of the person told, the time, and who made the call, and follow the lab's incident or occurrence reporting process."
+  },
+  {
+    "id": 339,
+    "domain": "reporting",
+    "front": "What is a delta check and why is it useful on a cumulative report?",
+    "back": "It compares a patient's current result with their previous one. A change beyond a set limit may signal mislabelling, contamination or a real clinical change, and it prompts review before release."
+  },
+  {
+    "id": 340,
+    "domain": "reporting",
+    "front": "A patient's hemoglobin falls from 130 g/L to 80 g/L over two days. How does a cumulative report help?",
+    "back": "Trending shows a clear acute drop that a single result would hide. It supports clinical recognition of bleeding or hemolysis, and confirms the result is real rather than a labelling error."
+  },
+  {
+    "id": 341,
+    "domain": "reporting",
+    "front": "How is a white cell count corrected when nucleated red blood cells (nRBC) are present?",
+    "back": "Corrected WBC = measured WBC x 100 divided by (nRBC per 100 WBC + 100). Example: 10.0 with 25 nRBC gives 10.0 x 100 / 125 = 8.0 x10^9/L."
+  },
+  {
+    "id": 342,
+    "domain": "reporting",
+    "front": "Why do nRBCs falsely raise the automated WBC count?",
+    "back": "Nucleated red cells are counted as leukocytes by many analyzers because they have nuclei that survive lysis. Counting them per 100 WBC on the smear allows the corrected WBC to be reported."
+  },
+  {
+    "id": 343,
+    "domain": "reporting",
+    "front": "When is the nRBC correction applied to a manual or automated WBC?",
+    "back": "When nRBCs are seen on the differential, per laboratory policy, commonly when they number 5 or more per 100 WBC. Report the corrected WBC and the nRBC count."
+  },
+  {
+    "id": 344,
+    "domain": "reporting",
+    "front": "Why are body fluid cell counts reported as nucleated cells with a differential, not as a blood CBC?",
+    "back": "Body fluids hold few cells and different cell types. Report total nucleated cell count and RBC count per litre, plus the differential in percent, with the fluid type and specimen quality noted."
+  },
+  {
+    "id": 345,
+    "domain": "reporting",
+    "front": "A cerebrospinal fluid (CSF) cell count is ordered. What is the key handling and reporting point?",
+    "back": "CSF is an urgent specimen and cells lyse quickly, so count promptly. Report cell counts and differential, and phone abnormal results such as organisms or blasts as critical results."
+  },
+  {
+    "id": 346,
+    "domain": "reporting",
+    "front": "Which unit and numerical pair is correct for a normal adult hemoglobin report in Canada?",
+    "back": "Hemoglobin is reported in g/L (for example 140 g/L), not g/dL. A g/dL value of 14.0 entered as g/L is a classic 10-fold unit error that must be caught."
+  },
+  {
+    "id": 347,
+    "domain": "reporting",
+    "front": "What units are used for RBC count, hematocrit and MCV in Canadian hematology reports?",
+    "back": "RBC in x10^12/L, hematocrit as a decimal fraction in L/L (for example 0.42), and MCV in fL. MCH is reported in pg and MCHC in g/L."
+  },
+  {
+    "id": 348,
+    "domain": "reporting",
+    "front": "How is a critical hematology result communicated verbally?",
+    "back": "Phone the responsible clinician directly, give the patient identifiers and result, have the receiver read it back, then document who was told, the time, and the read-back. Escalate if there is no response."
+  },
+  {
+    "id": 349,
+    "domain": "reporting",
+    "front": "What is the absolute reticulocyte count formula and a typical use?",
+    "back": "Absolute retic (x10^9/L) = retic percent x RBC count (x10^12/L) x 10. Example: 2.0 percent x 4.0 x 10 = 80 x10^9/L. It shows marrow response better than percent alone."
+  },
+  {
+    "id": 350,
+    "domain": "reporting",
+    "front": "Why report both retic percent and absolute count in an anemic patient?",
+    "back": "Percent can look high only because RBCs are low. The absolute count shows true marrow output. A low absolute count with anemia suggests inadequate production."
+  },
+  {
+    "id": 351,
+    "domain": "reporting",
+    "front": "In what units is the Westergren erythrocyte sedimentation rate reported, and after what time is it read?",
+    "back": "Report in mm/h, read at the 1 hour mark as the distance the red cell column falls below the plasma meniscus. Always record the unit with the number."
+  },
+  {
+    "id": 352,
+    "domain": "reporting",
+    "front": "What blood to anticoagulant ratio is used for a Westergren ESR collected in sodium citrate?",
+    "back": "Four parts blood to one part 3.2 percent sodium citrate (4:1). Underfilling dilutes the sample incorrectly, so reject or recollect when the fill volume is wrong."
+  },
+  {
+    "id": 353,
+    "domain": "reporting",
+    "front": "Name two technical errors that falsely change an ESR result and the direction of the error.",
+    "back": "A tube tilted from vertical falsely raises the ESR. Air bubbles, vibration or a warm bench also distort it. Refrigerated blood must return to room temperature before testing."
+  },
+  {
+    "id": 354,
+    "domain": "reporting",
+    "front": "An automated platelet count is unexpectedly low and the analyzer flags clumps. What is the first step before reporting?",
+    "back": "Examine the smear for platelet clumps and fibrin. If clumps are present, do not report the low count as true. Recollect and repeat before releasing a result."
+  },
+  {
+    "id": 355,
+    "domain": "reporting",
+    "front": "Which tube is used to recollect a sample when EDTA-induced platelet clumping (pseudothrombocytopenia) is suspected?",
+    "back": "A sodium citrate tube. The citrated count is then corrected for the 1:10 dilution (multiply by 1.1) and the report is annotated that it was a citrate count."
+  },
+  {
+    "id": 356,
+    "domain": "reporting",
+    "front": "How is a platelet count estimated from a blood smear, and when is it used?",
+    "back": "Average the platelets per oil immersion field over several fields and multiply by the lab's validated factor (often 20 x10^9/L). Used to confirm or verify an instrument count."
+  },
+  {
+    "id": 357,
+    "domain": "reporting",
+    "front": "In newborn screening by HPLC, what does an FS pattern with no hemoglobin A suggest?",
+    "back": "Possible sickle cell disease (or sickle beta zero thalassemia). It is only a screening result, so the report states confirmatory testing and clinical follow-up are required."
+  },
+  {
+    "id": 358,
+    "domain": "reporting",
+    "front": "What does an FAS pattern on newborn screening usually indicate, and how should the report be worded?",
+    "back": "Usually sickle cell trait (carrier). Word it as consistent with trait, refer to the provincial program's follow-up pathway, and avoid calling it a disease."
+  },
+  {
+    "id": 359,
+    "domain": "reporting",
+    "front": "What is a basic rule for adding a test onto a sample already in the hematology lab?",
+    "back": "Confirm the analyte is stable for the time elapsed since collection, the sample volume and storage are acceptable, then document who requested it and when."
+  },
+  {
+    "id": 360,
+    "domain": "reporting",
+    "front": "Why is an add-on manual differential or smear review often limited by sample age?",
+    "back": "Blood in EDTA develops cell morphology artifacts over time (vacuolated neutrophils, crenated red cells). Past the lab's stability limit, a new sample is needed."
+  },
+  {
+    "id": 361,
+    "domain": "reporting",
+    "front": "What is reflex testing in hematology, and who approves the criteria?",
+    "back": "A pre-approved rule that triggers a further test automatically when a result meets set criteria, such as a smear review for a flagged CBC. The medical director approves the rules."
+  },
+  {
+    "id": 362,
+    "domain": "reporting",
+    "front": "What should a technologist do on discovering a hematology result already released was wrong?",
+    "back": "Notify the supervisor and the clinician right away, issue a corrected report clearly marked as corrected, keep the original visible in the record, and file an occurrence report."
+  },
+  {
+    "id": 363,
+    "domain": "reporting",
+    "front": "What is a near miss in laboratory reporting, and why is it still reported?",
+    "back": "An error caught before it reached the patient or clinician. It is reported so the system can find trends and fix the cause before a real harm event occurs."
+  },
+  {
+    "id": 364,
+    "domain": "reporting",
+    "front": "When a reporting error reached the patient chart, what does disclosure involve?",
+    "back": "The responsible clinician and lab leadership inform the patient or care team honestly about what happened and what was corrected, following the facility's disclosure policy."
+  },
+  {
+    "id": 365,
+    "domain": "reporting",
+    "front": "What must an audit trail for a hematology result show when a result is edited?",
+    "back": "Who made the change, the date and time, the original value, the new value, and the reason. Original results must never be deleted or overwritten without a trace."
+  },
+  {
+    "id": 366,
+    "domain": "reporting",
+    "front": "How long must hematology records be kept?",
+    "back": "It depends on provincial regulation and the lab's accreditation policy, so follow your lab's written retention schedule, which sets different periods for reports, QC records and slides."
+  },
+  {
+    "id": 367,
+    "domain": "reporting",
+    "front": "Under Ontario's PHIPA, who may receive a patient's hematology result?",
+    "back": "The ordering provider and others in the patient's circle of care, or the patient through the lab's release process. Other provinces have their own health privacy laws."
+  },
+  {
+    "id": 368,
+    "domain": "reporting",
+    "front": "A caller asks for a patient's CBC result by phone. What should you do before releasing it?",
+    "back": "Verify who the caller is and that they are authorized, using the lab's procedure and at least two patient identifiers. If unsure, refer them to the ordering provider."
+  },
+  {
+    "id": 369,
+    "domain": "reporting",
+    "front": "Why should hematology results not be shared with a patient's family member without consent?",
+    "back": "Health information is protected by provincial privacy law. Release requires the patient's consent or another lawful authority, and the lab's policy decides how this is checked."
+  },
+  {
+    "id": 370,
+    "domain": "reporting",
+    "front": "What may an MLT add as an interpretive comment on a hematology report?",
+    "back": "Standardized descriptive comments approved by the medical director, such as 'platelet clumps seen, recollection suggested'. The comment describes findings and does not diagnose."
+  },
+  {
+    "id": 371,
+    "domain": "reporting",
+    "front": "What is outside an MLT's scope when reporting abnormal hematology findings?",
+    "back": "Making a diagnosis or recommending treatment. The MLT reports findings, flags them using lab policy, and refers interpretation to the pathologist or physician."
+  },
+  {
+    "id": 372,
+    "domain": "reporting",
+    "front": "Which assay is commonly used to monitor unfractionated heparin by anti-Xa, and what is a typical therapeutic range?",
+    "back": "A chromogenic anti-Xa assay on citrated platelet poor plasma. A typical UFH therapeutic range is 0.3 to 0.7 IU/mL, but use the range set by your lab."
+  },
+  {
+    "id": 373,
+    "domain": "reporting",
+    "front": "What can falsely affect an anti-Xa result, and how should it be handled before reporting?",
+    "back": "Marked hemolysis, icterus or lipemia can interfere with the chromogenic reading. Check the sample, note the interference or request recollection per lab policy."
+  },
+  {
+    "id": 374,
+    "domain": "reporting",
+    "front": "You find blasts on a smear from an unexpected CBC. How should this be communicated?",
+    "back": "Telephone the responsible clinician promptly, use read back, document the name and time of the call, and refer the smear to the pathologist per the lab's critical result policy."
+  },
+  {
+    "id": 375,
+    "domain": "reporting",
+    "front": "What must a technologist document when a critical hemoglobin is phoned to a clinician?",
+    "back": "The result, the date and time, the full name of the person who received it, and that the value was read back. This record proves the critical result reached someone able to act on it."
+  },
+  {
+    "id": 376,
+    "domain": "quality_assurance",
+    "front": "On a Levey-Jennings chart, which lines are normally drawn, and what do they represent?",
+    "back": "The mean as the centre line, plus lines at plus and minus 1, 2 and 3 SD. Each control result is plotted in run order so shifts, trends and outliers are visible at a glance."
+  },
+  {
+    "id": 377,
+    "domain": "quality_assurance",
+    "front": "How is the mean and SD for a Levey-Jennings chart usually established for a new control lot in your own lab?",
+    "back": "Run the new control repeatedly (commonly 20 or more data points over several days), calculate the lab's own mean and SD, then compare with the manufacturer's assay range before using it for QC."
+  },
+  {
+    "id": 378,
+    "domain": "quality_assurance",
+    "front": "A control result falls 2.5 SD above the mean on a Levey-Jennings chart. Is it automatically out of control?",
+    "back": "No. Beyond 2 SD is a warning only. About 5 percent of values fall outside plus or minus 2 SD by chance, so it triggers a check of other Westgard rules, not rejection alone."
+  },
+  {
+    "id": 379,
+    "domain": "quality_assurance",
+    "front": "What does the Westgard 1-3s rule detect, and is it a warning or rejection rule?",
+    "back": "One control result beyond plus or minus 3 SD. It is a rejection rule that mainly flags random error (or a large systematic error). Stop, troubleshoot and do not report patient results."
+  },
+  {
+    "id": 380,
+    "domain": "quality_assurance",
+    "front": "What does the 2-2s rule mean, and what kind of error does it usually indicate?",
+    "back": "Two consecutive control results exceed the same limit of plus 2 SD or minus 2 SD. It is a rejection rule that mainly indicates systematic error such as calibration drift or reagent deterioration."
+  },
+  {
+    "id": 381,
+    "domain": "quality_assurance",
+    "front": "How is the R-4s rule applied to two levels of control, and which error does it detect?",
+    "back": "One control is above plus 2 SD and the other is below minus 2 SD within the same run, a range of more than 4 SD. It detects random error (imprecision)."
+  },
+  {
+    "id": 382,
+    "domain": "quality_assurance",
+    "front": "What does the 4-1s rule signal on a CBC or coagulation control chart?",
+    "back": "Four consecutive control results exceed 1 SD on the same side of the mean. It signals systematic error, often an early shift or drift, before results become clearly unacceptable."
+  },
+  {
+    "id": 383,
+    "domain": "quality_assurance",
+    "front": "What does the 10-x rule indicate, and how does it differ from a trend?",
+    "back": "Ten consecutive control values fall on the same side of the mean: a systematic shift. A trend instead is a gradual steady rise or fall over about six or more points."
+  },
+  {
+    "id": 384,
+    "domain": "quality_assurance",
+    "front": "A hematology control chart shows an abrupt move of all points to a new level. Is this a shift or a trend, and what are common causes?",
+    "back": "A shift. Common causes: new reagent or control lot, recalibration, new lamp or aperture change, or maintenance. A trend by contrast suggests gradual deterioration such as reagent or control aging."
+  },
+  {
+    "id": 385,
+    "domain": "quality_assurance",
+    "front": "Which type of error is revealed by a wide scatter of control results around an unchanged mean?",
+    "back": "Random error (imprecision), shown by increased SD. Typical causes are bubbles, clogged aperture, inconsistent pipetting or mixing, or unstable reagent. It is not corrected by recalibration."
+  },
+  {
+    "id": 386,
+    "domain": "quality_assurance",
+    "front": "Define accuracy versus precision in laboratory testing.",
+    "back": "Accuracy is closeness of a result to the true value (low bias). Precision is the reproducibility of repeated results (low SD or CV). A method can be precise yet inaccurate."
+  },
+  {
+    "id": 387,
+    "domain": "quality_assurance",
+    "front": "How is the coefficient of variation (CV) calculated? Give a short worked step.",
+    "back": "CV percent = (SD divided by mean) x 100. Example: mean WBC 8.0 x10^9/L, SD 0.2 gives (0.2 / 8.0) x 100 = 2.5 percent. It allows comparing precision across different levels."
+  },
+  {
+    "id": 388,
+    "domain": "quality_assurance",
+    "front": "How is percent bias calculated when comparing a lab's mean to a target value?",
+    "back": "Bias percent = ((lab mean minus target) divided by target) x 100. Example: lab mean 4.2, target 4.0 gives plus 5 percent. Bias measures systematic error and relates to accuracy."
+  },
+  {
+    "id": 389,
+    "domain": "quality_assurance",
+    "front": "Why are three levels of CBC control (low, normal, high) used rather than one?",
+    "back": "They verify performance across the reportable range, including clinically critical low and high values, and help detect problems that affect only part of the range, such as linearity or carryover."
+  },
+  {
+    "id": 390,
+    "domain": "quality_assurance",
+    "front": "What handling steps matter for commercial CBC control blood before running it?",
+    "back": "Warm to room temperature, mix gently by rolling and inversion per the insert (not vigorous shaking), run promptly, and return to refrigerator. Respect open-vial stability. Poor mixing causes false imprecision."
+  },
+  {
+    "id": 391,
+    "domain": "quality_assurance",
+    "front": "Before a new lot of CBC controls replaces the current lot, what is the best practice?",
+    "back": "Run the new lot in parallel with the current lot, collect enough data points to set the lab's own mean and SD, then confirm values fall within the manufacturer's range before the changeover."
+  },
+  {
+    "id": 392,
+    "domain": "quality_assurance",
+    "front": "What is patient-based QC using the moving average of red cell indices (Bull's algorithm)?",
+    "back": "Averaging MCV, MCH and MCHC over batches of consecutive patient results (traditionally 20). Drift in the running average, plotted like a control chart, signals a calibration or analyzer problem independent of commercial controls."
+  },
+  {
+    "id": 393,
+    "domain": "quality_assurance",
+    "front": "What is a delta check and what does a failed delta check on a CBC prompt?",
+    "back": "A comparison of the current result with the same patient's previous result for an unexpected change. A failure prompts checking for specimen mislabelling, wrong-blood-in-tube, clots or true clinical change before reporting."
+  },
+  {
+    "id": 394,
+    "domain": "quality_assurance",
+    "front": "Which red cell index is considered most stable and useful in moving-average and delta checks, and why?",
+    "back": "MCV, because it is measured directly and varies little in an individual. A sudden MCV change between samples from one patient strongly suggests a specimen identification error."
+  },
+  {
+    "id": 395,
+    "domain": "quality_assurance",
+    "front": "What is the purpose of external proficiency testing (PT) in hematology, and what formats are commonly included?",
+    "back": "It compares your results with peer labs and reference values using unknown samples to assess accuracy. Hematology surveys typically include CBC, differential, blood film images and coagulation tests."
+  },
+  {
+    "id": 396,
+    "domain": "quality_assurance",
+    "front": "A lab fails a proficiency testing challenge. What is the proper response?",
+    "back": "Investigate the root cause, document corrective action, recheck or retest as appropriate, assess any effect on patient results, and keep records. Never send PT samples to another lab for confirmation."
+  },
+  {
+    "id": 397,
+    "domain": "quality_assurance",
+    "front": "What is the difference between method validation and method verification?",
+    "back": "Validation proves a new or modified method meets its intended use (full study). Verification confirms an established, manufacturer-cleared method performs as claimed in your own lab, typically precision, accuracy and reportable range."
+  },
+  {
+    "id": 398,
+    "domain": "quality_assurance",
+    "front": "How is carryover on a hematology analyzer commonly evaluated?",
+    "back": "Run a high-concentration sample three times, then a low-concentration sample three times. Carryover percent = (low1 minus low3) divided by (high3 minus low3) x 100, compared with the manufacturer's limit."
+  },
+  {
+    "id": 399,
+    "domain": "quality_assurance",
+    "front": "What is calibration verification and when is it required for a hematology analyzer?",
+    "back": "Running materials of known value to confirm the existing calibration still holds across the reportable range. It is done at set intervals and after major maintenance, component replacement, or when QC shows persistent bias."
+  },
+  {
+    "id": 400,
+    "domain": "quality_assurance",
+    "front": "When a new thromboplastin reagent lot is introduced, what must be re-established or verified, and why?",
+    "back": "Verify the ISI (from the manufacturer) and establish the lab's mean normal PT using fresh normal plasmas. INR = (patient PT / mean normal PT) raised to the ISI, so errors in either value shift INR results."
+  },
+  {
+    "id": 401,
+    "domain": "quality_assurance",
+    "front": "What is the usual minimum number of reference individuals recommended by CLSI EP28-A3c to establish a new reference interval directly?",
+    "back": "At least 120 reference individuals per partition. The 2.5th and 97.5th percentiles are then taken as the limits, so the central 95% of healthy values defines the interval."
+  },
+  {
+    "id": 402,
+    "domain": "quality_assurance",
+    "front": "How many reference specimens does a laboratory typically test to verify a manufacturer's reference interval, and what passes?",
+    "back": "Usually 20 healthy individuals. Verification passes if no more than 2 of the 20 results (10%) fall outside the stated limits. More than 2 outside means investigate or establish your own."
+  },
+  {
+    "id": 403,
+    "domain": "quality_assurance",
+    "front": "Why are percentiles, not mean plus or minus 2 SD, often used to set a hemoglobin or WBC reference interval?",
+    "back": "Many hematology analytes are not normally distributed (WBC is skewed). A nonparametric 2.5th to 97.5th percentile does not assume a Gaussian shape, so it avoids a distorted lower or upper limit."
+  },
+  {
+    "id": 404,
+    "domain": "quality_assurance",
+    "front": "Why might a hemoglobin reference interval need separate partitions?",
+    "back": "Hemoglobin differs by sex, age, and for some populations pregnancy or altitude. Healthy adult males and females, children and newborns each need their own interval, or abnormal results will be misflagged."
+  },
+  {
+    "id": 405,
+    "domain": "quality_assurance",
+    "front": "What is the purpose of a method comparison study when a new hematology analyzer replaces the old one?",
+    "back": "To show the new instrument gives clinically equivalent results to the current one across the measuring range. It uses fresh patient samples run on both, then regression or bias plots to judge agreement."
+  },
+  {
+    "id": 406,
+    "domain": "quality_assurance",
+    "front": "In a manual versus automated differential comparison, what does a correlation coefficient alone fail to show?",
+    "back": "Correlation shows how closely results move together, not whether they agree. A constant or proportional bias can exist with r near 1.0, so slope, intercept and mean bias must also be examined."
+  },
+  {
+    "id": 407,
+    "domain": "quality_assurance",
+    "front": "Why is the manual 100-cell differential less precise for rare cell types than an automated 10 000-cell count?",
+    "back": "Counting only 100 cells gives wide statistical error, especially for low-frequency cells like basophils or blasts. Automated counting samples far more cells, so the percentage estimate is much tighter."
+  },
+  {
+    "id": 408,
+    "domain": "quality_assurance",
+    "front": "How often should Wright-Giemsa stain quality be checked, and what is assessed?",
+    "back": "Check with each new stain batch and whenever staining looks off, and review daily slides. Look for pink RBCs, blue-purple nuclei with clear chromatin, correct granule colour, and no precipitate or background stain."
+  },
+  {
+    "id": 409,
+    "domain": "quality_assurance",
+    "front": "A blood smear shows excessively blue RBCs and a blue background. What stain problem is the likely cause?",
+    "back": "The stain or buffer pH is too alkaline, or the slide was stained or left too long. Check buffer pH (about 6.8 to 7.2), staining time and rinse. Restain or prepare a fresh smear."
+  },
+  {
+    "id": 410,
+    "domain": "quality_assurance",
+    "front": "What does morphology slide review competency typically involve for a technologist?",
+    "back": "Reviewing a set of known or previously reviewed slides and correctly identifying cells and abnormalities, compared with an expert's answers. Results are scored and gaps trigger retraining before independent reporting."
+  },
+  {
+    "id": 411,
+    "domain": "quality_assurance",
+    "front": "What is the first action when hematology QC results fall outside acceptable limits?",
+    "back": "Stop reporting patient results for that analyte. Do not release anything until the cause is found and QC is acceptable, then review patient results run since the last acceptable QC."
+  },
+  {
+    "id": 412,
+    "domain": "quality_assurance",
+    "front": "Name a logical first troubleshooting step after a QC failure on an automated analyzer.",
+    "back": "Check for obvious causes first: expired or mishandled control, reagent level, recent maintenance or calibration, then repeat with a fresh vial of control. Change one variable at a time."
+  },
+  {
+    "id": 413,
+    "domain": "quality_assurance",
+    "front": "After a QC failure is corrected, which patient samples may need to be repeated?",
+    "back": "Patient samples tested since the last acceptable QC, judged by the lab's SOP and the shift in results. Samples near decision limits or showing a clinically significant difference are reanalyzed, and corrected reports issued."
+  },
+  {
+    "id": 414,
+    "domain": "quality_assurance",
+    "front": "Give one preanalytical error that falsely lowers a platelet count.",
+    "back": "Platelet clumping from a clotted or EDTA-dependent sample, or a short draw. A small clot traps platelets. Check for clots, review the smear for clumps, and consider a citrate tube recollection."
+  },
+  {
+    "id": 415,
+    "domain": "quality_assurance",
+    "front": "Which type of error is incorrect specimen labelling, and why does it matter most?",
+    "back": "A preanalytical error, since it causes wrong-patient results. A mislabelled specimen can pass all analytical QC, so patient identification checks at collection and receipt are the main defense."
+  },
+  {
+    "id": 416,
+    "domain": "quality_assurance",
+    "front": "Give an example of an analytical error source in hematology.",
+    "back": "Instrument problems such as a blocked aperture, reagent deterioration or calibration drift. These show as QC shifts or trends, flagged by Westgard rules, and are caught before patient results are released."
+  },
+  {
+    "id": 417,
+    "domain": "quality_assurance",
+    "front": "Give an example of a postanalytical error in hematology reporting.",
+    "back": "Transcription error, wrong units, missed critical value notification or results sent to the wrong chart. Verify manual entries, use critical value policies, and confirm LIS interfaces after changes."
+  },
+  {
+    "id": 418,
+    "domain": "quality_assurance",
+    "front": "What is ISO 15189 and who uses it?",
+    "back": "An international standard for quality and competence of medical laboratories. Canadian labs use it, with provincial programs often built on it, to show technical competence and a working quality management system."
+  },
+  {
+    "id": 419,
+    "domain": "quality_assurance",
+    "front": "What does accreditation by a provincial body typically require of a hematology lab?",
+    "back": "Documented quality management, validated methods, QC and proficiency testing, competent trained staff and regular assessment visits. Requirements vary by province, so follow the specific program the lab belongs to."
+  },
+  {
+    "id": 420,
+    "domain": "quality_assurance",
+    "front": "What is the aim of occurrence (incident) management in a laboratory?",
+    "back": "To record errors and near misses, correct them and prevent repeats, not to assign blame. Reports are investigated, trended and closed with documented corrective and preventive action."
+  },
+  {
+    "id": 421,
+    "domain": "quality_assurance",
+    "front": "What is the idea behind root cause analysis after a repeated specimen mix-up?",
+    "back": "Ask why until the system cause is found, such as a confusing workflow or lack of a second identifier check, rather than stopping at 'technologist error'. Fix the process so it cannot happen again."
+  },
+  {
+    "id": 422,
+    "domain": "quality_assurance",
+    "front": "Why must SOPs in a hematology lab go through document control?",
+    "back": "So only the current, approved version is in use. Each SOP has an owner, version, effective date and authorized review, and obsolete copies are removed from the bench."
+  },
+  {
+    "id": 423,
+    "domain": "quality_assurance",
+    "front": "What does change control require before a new reagent lot or procedure change goes live?",
+    "back": "The change is assessed, approved, verified with testing as needed (for example lot-to-lot checks), documented, and staff are trained before use. Records show who approved it and when."
+  },
+  {
+    "id": 424,
+    "domain": "quality_assurance",
+    "front": "How is hematology technologist competency usually assessed and documented, including for new hires?",
+    "back": "Direct observation, review of results, unknown samples and problem solving, at orientation, again at six months, then at least annually. Records are kept with training files and gaps trigger retraining."
+  },
+  {
+    "id": 425,
+    "domain": "quality_assurance",
+    "front": "What QC is needed for a point-of-care INR meter?",
+    "back": "Run liquid or built-in electronic controls as the manufacturer and lab policy require, and compare with a lab INR periodically. Operators must be trained, and results outside limits stop patient testing."
+  },
+  {
+    "id": 426,
+    "domain": "equipment",
+    "front": "Which lens cleaner and paper should be used to remove immersion oil from a microscope oil objective at the end of the day?",
+    "back": "Wipe the 100x objective with clean lens paper, then lens paper lightly moistened with lens cleaner. Never use tissue or gauze, which scratch the lens, and never leave oil to dry on it."
+  },
+  {
+    "id": 427,
+    "domain": "equipment",
+    "front": "What is the purpose of Kohler illumination, and what does the technologist adjust to set it up?",
+    "back": "It gives even, glare-free field illumination with maximum resolution. Focus the specimen, close and centre the field diaphragm image, then adjust the condenser height and aperture diaphragm."
+  },
+  {
+    "id": 428,
+    "domain": "equipment",
+    "front": "A microscope image is dim and uneven after the lamp was replaced. What is the first maintenance check?",
+    "back": "Check that the new bulb is seated and centred (aligned) and that the condenser and diaphragms are set correctly. Record the lamp change and hours of use in the maintenance log."
+  },
+  {
+    "id": 429,
+    "domain": "equipment",
+    "front": "What does a hematology analyzer background (blank) count check confirm each day, and what result is expected?",
+    "back": "It confirms the diluent and fluidics are clean and free of contamination or carryover. Counts should be at or below the manufacturer's stated limits, such as WBC near zero, before running patients."
+  },
+  {
+    "id": 430,
+    "domain": "equipment",
+    "front": "Why are daily startup quality control runs done on a hematology analyzer before patient samples are reported?",
+    "back": "They verify the instrument is calibrated and performing within acceptable limits after startup. Run at least normal, low and high controls as per lab policy, and release results only if QC passes."
+  },
+  {
+    "id": 431,
+    "domain": "equipment",
+    "front": "What is the usual purpose of the daily or scheduled automated cleaning cycle (such as a bleach or enzymatic cleaner) on a hematology analyzer?",
+    "back": "It removes protein build up and residue from tubing, flow cells and apertures that can cause clogs, high background counts and erroneous results. Follow the manufacturer's schedule and document it."
+  },
+  {
+    "id": 432,
+    "domain": "equipment",
+    "front": "What must be done before a centrifuge is started, to prevent rotor damage and unsafe vibration?",
+    "back": "Balance the tubes opposite each other by equal volume and mass, use matching tube types, and close and latch the lid. An unbalanced load can cause serious mechanical failure and aerosol release."
+  },
+  {
+    "id": 433,
+    "domain": "equipment",
+    "front": "How is the speed of a centrifuge verified, and how often should this be checked?",
+    "back": "Use a tachometer (or a calibrated strobe) to compare actual rpm against the dial setting, and a calibrated timer to check run time. Check at least as often as the lab quality program requires, commonly every 6 to 12 months."
+  },
+  {
+    "id": 434,
+    "domain": "equipment",
+    "front": "Why is the microhematocrit centrifuge timing and speed verification important, and what happens if the spin time is too short?",
+    "back": "Insufficient spin leaves red cells incompletely packed, falsely raising the hematocrit reading from trapped plasma. Verify the time needed to reach maximum packing and recheck periodically."
+  },
+  {
+    "id": 435,
+    "domain": "equipment",
+    "front": "What common daily maintenance applies to a coagulation analyzer's reagent handling to avoid erroneous PT and aPTT results?",
+    "back": "Reconstitute and store reagents as directed, check expiry and on board stability times, bring to the required temperature, and never mix lots without validation. Label open dates on all vials."
+  },
+  {
+    "id": 436,
+    "domain": "equipment",
+    "front": "What routine checks keep a coagulation analyzer's sample probe working correctly?",
+    "back": "Inspect the probe for clots, bends and build up, clean it with the recommended cleaning solution, and confirm it is aligned to pierce the tube and cuvette accurately. Problems cause short sampling and false results."
+  },
+  {
+    "id": 437,
+    "domain": "equipment",
+    "front": "Why must the incubation temperature of a coagulation analyzer be monitored, and what temperature is typical for clotting assays?",
+    "back": "Clotting enzyme reactions are temperature dependent, so shifts change clotting times. Most coagulation assays are run at 37 degrees C, with the temperature checked and recorded per the lab's schedule."
+  },
+  {
+    "id": 438,
+    "domain": "equipment",
+    "front": "How is a pipette verified for accuracy, and which tool is commonly used?",
+    "back": "Dispense a known volume of water onto a calibrated analytical balance, weigh it repeatedly, and compare to the expected mass (1 mL of water weighs about 1 g). Calculate accuracy and precision against tolerance."
+  },
+  {
+    "id": 439,
+    "domain": "equipment",
+    "front": "What daily or routine verification is required for an analytical balance used in the laboratory?",
+    "back": "Check it is level, clean and zeroed, then weigh certified check weights and record results. Service and external calibration are done at set intervals by an approved provider."
+  },
+  {
+    "id": 440,
+    "domain": "equipment",
+    "front": "What temperature range should a laboratory reagent refrigerator be kept in, and how is it monitored?",
+    "back": "Keep it between 2 and 8 degrees C. Use a calibrated thermometer, record the temperature daily (or use continuous logging), and document corrective action for any out of range reading."
+  },
+  {
+    "id": 441,
+    "domain": "equipment",
+    "front": "A heat block used for incubation reads 3 degrees C below its set point. What is the correct action?",
+    "back": "Do not use it for the test. Verify with a calibrated reference thermometer, adjust or take it out of service, and document the problem and corrective action. Repeat any affected tests."
+  },
+  {
+    "id": 442,
+    "domain": "equipment",
+    "front": "What is the correct way to clean a hemocytometer and its coverslip after use?",
+    "back": "Rinse the chamber gently with water, dry with lens paper and never scrub the ruled area. Use a thick, flat, clean coverslip made for the chamber, as scratches and residue distort counts."
+  },
+  {
+    "id": 443,
+    "domain": "equipment",
+    "front": "How can you tell a hemocytometer coverslip is correctly seated before counting cells?",
+    "back": "Look for Newton's rings (rainbow interference lines) where the coverslip contacts the chamber rails. Their presence shows the proper chamber depth of 0.1 mm has been achieved."
+  },
+  {
+    "id": 444,
+    "domain": "equipment",
+    "front": "What routine maintenance prevents poor smears on an automated slide maker or stainer?",
+    "back": "Replace stains and buffers on schedule, filter or change reagents as per the manufacturer, and clean the spreader and staining baths. Check smear and stain quality with a control slide before patients."
+  },
+  {
+    "id": 445,
+    "domain": "equipment",
+    "front": "What is a cytocentrifuge used for in a hematology or body fluid lab, and what is a key setup point?",
+    "back": "It deposits cells from low cellularity fluids (such as CSF) onto a slide as a monolayer. Use the correct filter card, slide and volume, and balance the cytospin heads before running."
+  },
+  {
+    "id": 446,
+    "domain": "equipment",
+    "front": "Which daily checks does a flow cytometer need before running patient samples?",
+    "back": "Run quality control beads to verify laser alignment, fluidics and detector performance, and check sheath fluid and waste levels. Results must meet acceptance limits before patient data are reported."
+  },
+  {
+    "id": 447,
+    "domain": "equipment",
+    "front": "What are calibration beads used for on a flow cytometer?",
+    "back": "They set and verify instrument settings, such as voltages and fluorescence sensitivity, and confirm compensation and consistency over time. Beads of known fluorescence give a reproducible reference signal."
+  },
+  {
+    "id": 448,
+    "domain": "equipment",
+    "front": "What is the first thing a technologist should do when an analyzer fails and cannot be used?",
+    "back": "Remove it from service with a clear label, notify the supervisor, and switch to the backup instrument or procedure. Record the failure, time and actions in the equipment log."
+  },
+  {
+    "id": 449,
+    "domain": "equipment",
+    "front": "After repairing an instrument that was down, what must happen before patient testing resumes?",
+    "back": "Verify performance: run QC and, as the lab policy requires, recalibrate and compare patient samples with a backup method. Document the repair, the verification results and the supervisor's approval."
+  },
+  {
+    "id": 450,
+    "domain": "equipment",
+    "front": "How often should the microhematocrit centrifuge speed and timer be verified?",
+    "back": "At the interval written in the laboratory procedure, using a tachometer and a calibrated timer, with the result recorded. Too little speed or time leaves red cells packed incompletely and gives a falsely high hematocrit."
+  },
+  {
+    "id": 451,
+    "domain": "safety",
+    "front": "Which two WHMIS 2015 pictograms would you expect on a methanol-based Wright-Giemsa stain bottle?",
+    "back": "Flame (flammable liquid) and skull and crossbones (acute toxicity), often with the health hazard pictogram too. Methanol is flammable and toxic by ingestion, skin contact and inhalation, so the label must show both."
+  },
+  {
+    "id": 452,
+    "domain": "safety",
+    "front": "Under WHMIS 2015, how many sections does a safety data sheet (SDS) have, and which section covers first aid?",
+    "back": "An SDS has 16 sections in a standard order. Section 4 is first aid measures. Section 8 covers exposure controls and PPE, and Section 7 covers handling and storage."
+  },
+  {
+    "id": 453,
+    "domain": "safety",
+    "front": "A stain is poured from a stock bottle into a smaller working bottle. What must the new container carry under WHMIS 2015?",
+    "back": "A workplace label with the product identifier, safe handling information, and a reference to the SDS. Decanted containers cannot go unlabelled, even for short use, unless the contents are used immediately by the person who filled it."
+  },
+  {
+    "id": 454,
+    "domain": "safety",
+    "front": "What is the minimum PPE for routine handling of whole blood specimens in the hematology bench area?",
+    "back": "Fluid-resistant lab coat or gown, gloves, and eye and face protection when splashes are possible. Routine practices treat all blood as potentially infectious, so protection is applied to every specimen, not only known positives."
+  },
+  {
+    "id": 455,
+    "domain": "safety",
+    "front": "In what order is PPE removed after bench work to limit contamination?",
+    "back": "Remove gloves first (they are the most contaminated), then eye protection, then the lab coat, and finally perform hand hygiene. Peel gloves inside out and never touch bare skin with a contaminated glove."
+  },
+  {
+    "id": 456,
+    "domain": "safety",
+    "front": "When must gloves be changed during hematology work, and what must never be worn out of the lab?",
+    "back": "Change gloves when torn, visibly contaminated, or when moving between tasks. Never wear gloves into hallways, offices, or break rooms, and never touch telephones, door handles or keyboards with soiled gloves."
+  },
+  {
+    "id": 457,
+    "domain": "safety",
+    "front": "Why should methanol-based fixatives and stains be stored away from oxidizers such as bleach and nitric acid?",
+    "back": "Flammable organics can react violently or ignite when in contact with oxidizers. Segregate by hazard class: flammables in a flammable cabinet, oxidizers separate, acids and bases apart from each other."
+  },
+  {
+    "id": 458,
+    "domain": "safety",
+    "front": "Where should acids and bases be stored in relation to each other and the floor?",
+    "back": "Store acids and bases in separate compartments or secondary containment, with large containers low on a shelf, below eye level. Mixing them through a leak can release heat and hazardous fumes."
+  },
+  {
+    "id": 459,
+    "domain": "safety",
+    "front": "Why keep only a small working volume of flammable stain on the bench and store the rest in a flammable cabinet?",
+    "back": "Keep only the small working amount on the bench and store the rest in a labelled, approved flammable cabinet. This limits fuel available to a fire and protects containers from heat and ignition sources."
+  },
+  {
+    "id": 460,
+    "domain": "safety",
+    "front": "What is the first step when a small volume of methanol-based stain spills on the bench?",
+    "back": "Alert nearby staff, remove ignition sources, check the SDS, and put on suitable PPE. Then contain the spill with absorbent material designed for solvents and dispose of it as chemical waste."
+  },
+  {
+    "id": 461,
+    "domain": "safety",
+    "front": "How long should you flush eyes at an eyewash station after a chemical splash?",
+    "back": "Flush for at least 15 minutes, holding the eyelids open and rolling the eyes. Start immediately, and seek medical attention afterward, taking the SDS along."
+  },
+  {
+    "id": 462,
+    "domain": "safety",
+    "front": "A staff member's clothing is soaked with a corrosive chemical. What is the correct action?",
+    "back": "Go straight to the safety shower, remove contaminated clothing while under the water, and flush the skin for at least 15 minutes. Call for help and report the incident through the occupational health process."
+  },
+  {
+    "id": 463,
+    "domain": "safety",
+    "front": "What is the immediate response to a needlestick injury with a contaminated lancet?",
+    "back": "Wash the site with soap and running water, do not squeeze or scrub, and cover it. Report to the supervisor right away and attend occupational health or emergency for risk assessment and post-exposure prophylaxis if indicated."
+  },
+  {
+    "id": 464,
+    "domain": "safety",
+    "front": "What information about the source patient is needed after a blood exposure incident?",
+    "back": "The source's bloodborne virus status (HIV, hepatitis B, hepatitis C), obtained through the proper consent and testing process by the responsible clinician. This guides prophylaxis decisions, and timing matters, particularly for HIV."
+  },
+  {
+    "id": 465,
+    "domain": "safety",
+    "front": "What is the principle of routine practices in Canadian health care?",
+    "back": "Treat the blood and body fluids of every patient as potentially infectious, and apply the same barrier precautions and hand hygiene to all. It replaces the older approach of relying on known infection status."
+  },
+  {
+    "id": 466,
+    "domain": "safety",
+    "front": "Why must needles never be recapped by hand, bent or broken before disposal?",
+    "back": "Recapping and manipulating needles is a leading cause of needlestick injuries. Discard sharps immediately after use, uncapped, into a nearby puncture-resistant container, using a safety device when available."
+  },
+  {
+    "id": 467,
+    "domain": "safety",
+    "front": "At what fill level should a sharps container be closed and replaced?",
+    "back": "When it is about three quarters full (at the fill line). Overfilling forces fingers near the opening and raises needlestick risk. Never push sharps down or reach into the container."
+  },
+  {
+    "id": 468,
+    "domain": "safety",
+    "front": "What does the acronym RACE stand for in a lab fire emergency?",
+    "back": "Rescue anyone in danger, Alarm (activate the pull station and call), Confine the fire by closing doors, then Extinguish if small and safe, or Evacuate. Your own safety comes before fighting a fire."
+  },
+  {
+    "id": 469,
+    "domain": "safety",
+    "front": "Which extinguisher class and the PASS steps apply to a small flammable liquid fire from a solvent?",
+    "back": "Class B (flammable liquids), typically a dry chemical or CO2 unit. PASS means Pull the pin, Aim at the base, Squeeze the handle, Sweep side to side. Never use water on a solvent fire."
+  },
+  {
+    "id": 470,
+    "domain": "safety",
+    "front": "Which hematology procedure should be done in a Class II biological safety cabinet rather than on an open bench?",
+    "back": "Procedures likely to produce aerosols or splashes with potentially infectious material, such as vortexing, opening pooled or suspect specimens, or preparing material from biohazardous cultures. The cabinet protects the worker, the specimen and the room."
+  },
+  {
+    "id": 471,
+    "domain": "safety",
+    "front": "Why is a biological safety cabinet not suitable for working with volatile toxic or flammable chemicals?",
+    "back": "A recirculating cabinet can concentrate vapours inside and an ignition source may create a fire risk. Use a chemical fume hood, which vents vapours to the outside, for volatile solvents and fixatives."
+  },
+  {
+    "id": 472,
+    "domain": "safety",
+    "front": "How must a blood specimen be packaged when sent to another laboratory by road in Canada?",
+    "back": "As a UN3373 Biological Substance, Category B under TDG: leakproof primary container, absorbent material, a sealed secondary container, and a rigid outer package with the correct marking. Staff must hold current TDG training."
+  },
+  {
+    "id": 473,
+    "domain": "safety",
+    "front": "What should be done if a specimen leaks in a transport bag when it arrives at the lab?",
+    "back": "Wear gloves and eye protection, handle it in a contained way, and decontaminate the bag and surfaces with an approved disinfectant. Notify the sender and follow the lab's incident reporting and specimen rejection process."
+  },
+  {
+    "id": 474,
+    "domain": "safety",
+    "front": "What ergonomic adjustments reduce neck and back strain during prolonged microscope differentials?",
+    "back": "Raise the microscope or adjust the eyepiece so the neck stays neutral, use an adjustable chair with back support, keep the elbows supported, and take short micro breaks. Avoid hunching toward the eyepieces."
+  },
+  {
+    "id": 475,
+    "domain": "safety",
+    "front": "What should an MLT do on noticing recurring wrist or hand pain from repetitive pipetting and slide work?",
+    "back": "Report it early to the supervisor and occupational health, and complete an incident or injury report. Early reporting allows workstation changes and prevents a repetitive strain injury becoming chronic."
+  },
+  {
+    "id": 476,
+    "domain": "professionalism",
+    "front": "A colleague from another department asks what result a named patient had, out of curiosity. What should you do?",
+    "back": "Decline politely. Patient information is shared only with those directly involved in that patient's care (circle of care). Curiosity is not a valid need to know, and looking it up is a privacy breach."
+  },
+  {
+    "id": 477,
+    "domain": "professionalism",
+    "front": "Which type of law governs how Canadian laboratories handle personal health information, and what does it generally require?",
+    "back": "Provincial or territorial health privacy law (for example PHIPA in Ontario). It requires collecting, using and disclosing personal health information only as needed for care, with safeguards, and breaches must be reported."
+  },
+  {
+    "id": 478,
+    "domain": "professionalism",
+    "front": "How should you handle a specimen label or requisition with patient identifiers when disposing of paper waste?",
+    "back": "Shred or use a secure confidential disposal bin. Never place identifiable paperwork in regular trash, because identifiers on paper are personal health information and carry the same privacy duty as electronic records."
+  },
+  {
+    "id": 479,
+    "domain": "professionalism",
+    "front": "Why must you log out of the laboratory information system when you leave a workstation?",
+    "back": "Your login is tied to your identity. Anyone using an open session acts under your name, creating unauthorized access and an inaccurate audit trail. Lock or log out every time you step away."
+  },
+  {
+    "id": 480,
+    "domain": "professionalism",
+    "front": "What does scope of practice mean for a medical laboratory technologist?",
+    "back": "The activities you are educated, authorized and competent to perform under your regulator's standards and your employer's policies. Tasks outside that scope must be referred to a qualified person, even if you are asked to do them."
+  },
+  {
+    "id": 481,
+    "domain": "professionalism",
+    "front": "You are unsure how to interpret an unusual result on a critical test. What is the appropriate first step?",
+    "back": "Do not guess or release it. Review the procedure and QC, then escalate to a senior technologist, supervisor or pathologist per policy. Referring early protects the patient and keeps you within your competence."
+  },
+  {
+    "id": 482,
+    "domain": "professionalism",
+    "front": "A supervisor asks you to perform a procedure you have not been trained or assessed on. How should you respond?",
+    "back": "Say that you are not yet competent in it and request training and a competency assessment first. Performing untrained procedures risks patient harm and falls outside what you can be accountable for."
+  },
+  {
+    "id": 483,
+    "domain": "professionalism",
+    "front": "You discover you released a wrong result to the chart. What does professional accountability require?",
+    "back": "Report it right away to your supervisor, follow the correction and notification procedure so the clinician is told, and document the error honestly. Concealing or delaying disclosure increases harm and violates ethical standards."
+  },
+  {
+    "id": 484,
+    "domain": "professionalism",
+    "front": "What is a conflict of interest in laboratory practice? Give one example.",
+    "back": "A situation where a personal interest could influence, or appear to influence, professional judgement. Example: accepting a gift from a reagent vendor while involved in choosing the next analyzer. Declare it to your supervisor."
+  },
+  {
+    "id": 485,
+    "domain": "professionalism",
+    "front": "Why is falsifying or back-filling a QC or maintenance record never acceptable?",
+    "back": "Records must reflect what actually happened. Falsification is dishonest, hides real problems and can lead to unreliable patient results. It can also result in regulator discipline and loss of registration."
+  },
+  {
+    "id": 486,
+    "domain": "professionalism",
+    "front": "How do you confirm you have the correct patient before explaining a procedure to them?",
+    "back": "Use at least two identifiers, such as full name and date of birth, asking the patient to state them and comparing with the requisition and wristband. Never rely on room number or ask leading yes or no questions."
+  },
+  {
+    "id": 487,
+    "domain": "professionalism",
+    "front": "A patient is anxious about a blood draw. What communication approach helps most?",
+    "back": "Introduce yourself, explain the steps in plain language, listen to concerns and offer reassurance without promising no pain. Clear and calm communication builds trust and often reduces fear and movement during collection."
+  },
+  {
+    "id": 488,
+    "domain": "professionalism",
+    "front": "A family member asks you to explain a patient's results. How should you respond?",
+    "back": "Do not interpret or release results. Explain that results go through the patient's care provider, and refer the family to the nurse or physician. Release to others requires the patient's consent or legal authority."
+  },
+  {
+    "id": 489,
+    "domain": "professionalism",
+    "front": "What are the key elements of an effective verbal critical value report to a nurse or physician?",
+    "back": "Identify yourself, give the patient's two identifiers, the test, value and units, and the time. Request read-back to confirm, then document who received it and when, per lab policy."
+  },
+  {
+    "id": 490,
+    "domain": "professionalism",
+    "front": "What does a regulatory college generally expect of its registered technologists regarding continuing competence?",
+    "back": "Ongoing participation in a quality assurance or professional development program, such as reflective learning plans, education hours or assessments, with records kept. Requirements vary by province, so follow your own college's program."
+  },
+  {
+    "id": 491,
+    "domain": "professionalism",
+    "front": "Why should a technologist keep a personal record of continuing education activities?",
+    "back": "Regulators may audit or request proof of learning during registration renewal. Dated records of courses, in-services and reflections show you maintained competence and help you identify future learning needs."
+  },
+  {
+    "id": 492,
+    "domain": "professionalism",
+    "front": "What is the purpose of a structured handover between shifts in the laboratory?",
+    "back": "To pass on pending work, instrument problems, critical results and unresolved issues clearly and completely. Written or verbal handover prevents lost information, repeated work and delayed patient results across shift changes."
+  },
+  {
+    "id": 493,
+    "domain": "professionalism",
+    "front": "Several urgent specimens arrive at once while routine work is waiting. How do you prioritize?",
+    "back": "Process by clinical urgency per lab policy: STAT and critical specimens, such as emergency or time-sensitive samples, come first. Communicate expected delays to the requesting unit and ask for help if overloaded."
+  },
+  {
+    "id": 494,
+    "domain": "professionalism",
+    "front": "What does cultural safety mean in healthcare, and how does it apply to a laboratory visit?",
+    "back": "Care in which the patient defines whether they feel respected and safe, free from bias and discrimination. Use respectful language, ask preferences, and recognize power imbalances, including the impact of historical harms on Indigenous peoples."
+  },
+  {
+    "id": 495,
+    "domain": "professionalism",
+    "front": "A patient who is hard of hearing needs a venipuncture. What accommodation is appropriate?",
+    "back": "Face the patient, speak clearly at a normal pace, use written notes or gestures, and confirm understanding. Use a qualified interpreter where available. Do not assume understanding from a nod or shout."
+  },
+  {
+    "id": 496,
+    "domain": "professionalism",
+    "front": "A patient refuses to have blood drawn. What is the correct response?",
+    "back": "Respect the refusal, because competent patients have the right to decline. Explain the purpose and consequences calmly, do not coerce or restrain, and notify the nurse or physician and document the refusal."
+  },
+  {
+    "id": 497,
+    "domain": "professionalism",
+    "front": "What makes consent valid for a specimen collection procedure?",
+    "back": "It must be voluntary, informed and given by a capable person. Implied consent applies to routine procedures, such as an outstretched arm, but must be reconfirmed if the patient hesitates or objects."
+  },
+  {
+    "id": 498,
+    "domain": "professionalism",
+    "front": "Why is it unprofessional to post about patients or workplace events on social media, even without names?",
+    "back": "Details such as time, place or rare conditions can identify patients, breaching confidentiality. Posts also affect the profession's public trust, and can lead to employer discipline and regulator action."
+  },
+  {
+    "id": 499,
+    "domain": "professionalism",
+    "front": "You witness a coworker skipping a required safety or QC step repeatedly. What is your duty?",
+    "back": "Report the unsafe practice to your supervisor or through the lab's reporting process, because patient and staff safety come first. Staying silent makes you part of the risk. Reports should be factual and documented."
+  },
+  {
+    "id": 500,
+    "domain": "professionalism",
+    "front": "A colleague asks about a friend's blood results. What is the correct response?",
+    "back": "Decline to share them. Results are confidential and may be released only to the patient or authorized care providers under provincial privacy law, such as PHIPA in Ontario. Friendship or curiosity is not a valid reason."
+  }
+]
